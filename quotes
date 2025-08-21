@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "quote": "Use drivers to connect parameters dynamically."
+  },
+  {
+    "id": 2,
+    "quote": "Use 'Snap to Increment' for precise grid alignment."
+  },
+  {
+    "id": 3,
+    "quote": "Try light linking (Blender 3.2+) for control."
+  },
+  {
+    "id": 4,
+    "quote": "Save startup file once configured (Ctrl+U)."
+  },
+  {
+    "id": 5,
+    "quote": "Use drivers for automated rig controls."
+  },
+  {
+    "id": 6,
+    "quote": "Bake AO for better game-ready assets."
+  },
+  {
+    "id": 7,
+    "quote": "Keep rig scales consistent to avoid issues."
+  },
+  {
+    "id": 8,
+    "quote": "Use Shift+Space to maximize any editor."
+  },
+  {
+    "id": 9,
+    "quote": "Set autosave interval shorter for safety."
+  },
+  {
+    "id": 10,
+    "quote": "Use compositor glare node for bloom effects."
+  },
+  {
+    "id": 11,
+    "quote": "Use color management (Filmic) for realistic lighting."
+  },
+  {
+    "id": 12,
+    "quote": "Pack linked assets if sending project externally."
+  },
+  {
+    "id": 13,
+    "quote": "Enable screencast keys for tutorials."
+  },
+  {
+    "id": 14,
+    "quote": "Use 'Copy Attributes' add-on to copy settings fast."
+  },
+  {
+    "id": 15,
+    "quote": "Use adaptive sampling in Cycles for efficiency."
+  },
+  {
+    "id": 16,
+    "quote": "Bevel modifiers before subdivision for clean results."
+  },
+  {
+    "id": 17,
+    "quote": "Join objects with Ctrl+J but beware of modifiers."
+  },
+  {
+    "id": 18,
+    "quote": "Use outline color IDs for material previews."
+  },
+  {
+    "id": 19,
+    "quote": "Use Shift+E to crease edges for subsurf."
+  },
+  {
+    "id": 20,
+    "quote": "Apply scale before using modifiers for consistent results."
+  },
+  {
+    "id": 21,
+    "quote": "Use Asset Browser for reusable materials and models."
+  },
+  {
+    "id": 22,
+    "quote": "Use outline color IDs for material previews."
+  },
+  {
+    "id": 23,
+    "quote": "Set autosave interval shorter for safety."
+  },
+  {
+    "id": 24,
+    "quote": "Use Motion Blur sparingly to save render time."
+  },
+  {
+    "id": 25,
+    "quote": "Use the 'Asset Browser' to store HDRIs."
+  },
+  {
+    "id": 26,
+    "quote": "Use proportional editing (O key) for smooth edits."
+  },
+  {
+    "id": 27,
+    "quote": "Use drivers for automated rig controls."
+  },
+  {
+    "id": 28,
+    "quote": "Use Alt+S in Edit Mode to shrink/fatten along normals."
+  },
+  {
+    "id": 29,
+    "quote": "Use linked duplicates for instancing environments."
+  },
+  {
+    "id": 30,
+    "quote": "Use compositor glare node for bloom effects."
+  },
+  {
+    "id": 31,
+    "quote": "Use random per-object input in shaders for variation."
+  },
+  {
+    "id": 32,
+    "quote": "Always freeze transforms before export."
+  },
+  {
+    "id": 33,
+    "quote": "Save startup file once configured (Ctrl+U)."
+  },
+  {
+    "id": 34,
+    "quote": "Ctrl+L to link materials quickly."
+  },
+  {
+    "id": 35,
+    "quote": "Reduce light bounces for faster rendering."
+  },
+  {
+    "id": 36,
+    "quote": "Use Alt+S in Edit Mode to shrink/fatten along normals."
+  },
+  {
+    "id": 37,
+    "quote": "Use adaptive sampling in Cycles for efficiency."
+  },
+  {
+    "id": 38,
+    "quote": "Use Alt+S in Edit Mode to shrink/fatten along normals."
+  },
+  {
+    "id": 39,
+    "quote": "Check face orientation in viewport overlays."
+  },
+  {
+    "id": 40,
+    "quote": "Use proportional editing (O key) for smooth edits."
+  },
+  {
+    "id": 41,
+    "quote": "Always backup important project files!"
+  },
+  {
+    "id": 42,
+    "quote": "CTRL+T in shader editor for texture coordinates."
+  },
+  {
+    "id": 43,
+    "quote": "Use Matcap shading for quick sculpt previews."
+  },
+  {
+    "id": 44,
+    "quote": "Use 'Snap to Increment' for precise grid alignment."
+  },
+  {
+    "id": 45,
+    "quote": "Use the 'Pie Menus' add-on for faster switching."
+  },
+  {
+    "id": 46,
+    "quote": "Shift+Ctrl+B bevels vertices into arcs."
+  },
+  {
+    "id": 47,
+    "quote": "Turn on persistent data for repeated renders."
+  },
+  {
+    "id": 48,
+    "quote": "Set unit scale early in projects to avoid chaos."
+  },
+  {
+    "id": 49,
+    "quote": "Use HDRI for quick realistic lighting."
+  },
+  {
+    "id": 50,
+    "quote": "Viewport render is faster for animation previews."
+  },
+  {
+    "id": 51,
+    "quote": "Use 'Snap to Increment' for precise grid alignment."
+  },
+  {
+    "id": 52,
+    "quote": "Use adaptive sampling in Cycles for efficiency."
+  },
+  {
+    "id": 53,
+    "quote": "Use the 'Asset Browser' to store HDRIs."
+  },
+  {
+    "id": 54,
+    "quote": "Limit subdivision levels for heavy meshes."
+  },
+  {
+    "id": 55,
+    "quote": "Convert curve to mesh for more control."
+  },
+  {
+    "id": 56,
+    "quote": "Try light linking (Blender 3.2+) for control."
+  },
+  {
+    "id": 57,
+    "quote": "Use collections to control render visibility."
+  },
+  {
+    "id": 58,
+    "quote": "Always double-check export settings."
+  },
+  {
+    "id": 59,
+    "quote": "Keep your Outliner organized with collections."
+  },
+  {
+    "id": 60,
+    "quote": "Use snapping with Shift+Tab for precise modeling."
+  },
+  {
+    "id": 61,
+    "quote": "Use adaptive sampling in Cycles for efficiency."
+  },
+  {
+    "id": 62,
+    "quote": "Convert curve to mesh for more control."
+  },
+  {
+    "id": 63,
+    "quote": "Use collections to control render visibility."
+  },
+  {
+    "id": 64,
+    "quote": "Enable auto-save in Preferences to prevent data loss."
+  },
+  {
+    "id": 65,
+    "quote": "Press '/' on numpad to isolate selected objects (local view)."
+  },
+  {
+    "id": 66,
+    "quote": "Use modifiers non-destructively whenever possible."
+  },
+  {
+    "id": 67,
+    "quote": "Keep render samples balanced (don\u2019t overshoot)."
+  },
+  {
+    "id": 68,
+    "quote": "Turn on persistent data for repeated renders."
+  },
+  {
+    "id": 69,
+    "quote": "Use modifiers non-destructively whenever possible."
+  },
+  {
+    "id": 70,
+    "quote": "Press '/' on numpad to isolate selected objects (local view)."
+  },
+  {
+    "id": 71,
+    "quote": "Use Asset Browser for reusable materials and models."
+  },
+  {
+    "id": 72,
+    "quote": "Use modifiers non-destructively whenever possible."
+  },
+  {
+    "id": 73,
+    "quote": "Enable GPU Subdivision in Preferences for speed."
+  },
+  {
+    "id": 74,
+    "quote": "Pack external data before sharing .blend files."
+  },
+  {
+    "id": 75,
+    "quote": "Ctrl+Shift+Click to add loops with Knife tool."
+  },
+  {
+    "id": 76,
+    "quote": "Turn on 'Simplify' for heavy scenes."
+  },
+  {
+    "id": 77,
+    "quote": "Pack linked assets if sending project externally."
+  },
+  {
+    "id": 78,
+    "quote": "Use modifiers non-destructively whenever possible."
+  },
+  {
+    "id": 79,
+    "quote": "Reduce light bounces for faster rendering."
+  },
+  {
+    "id": 80,
+    "quote": "Enable screencast keys for tutorials."
+  },
+  {
+    "id": 81,
+    "quote": "Ctrl+Shift+Click to add loops with Knife tool."
+  },
+  {
+    "id": 82,
+    "quote": "Use outline color IDs for material previews."
+  },
+  {
+    "id": 83,
+    "quote": "Enable GPU Subdivision in Preferences for speed."
+  },
+  {
+    "id": 84,
+    "quote": "Use 'Snap to Increment' for precise grid alignment."
+  },
+  {
+    "id": 85,
+    "quote": "Bake textures for performance in game engines."
+  },
+  {
+    "id": 86,
+    "quote": "Try geometry nodes for procedural modeling."
+  },
+  {
+    "id": 87,
+    "quote": "Ctrl+B to bevel edges in Edit Mode."
+  },
+  {
+    "id": 88,
+    "quote": "Use the 'Asset Browser' to store HDRIs."
+  },
+  {
+    "id": 89,
+    "quote": "Use drivers to connect parameters dynamically."
+  },
+  {
+    "id": 90,
+    "quote": "Keep rig scales consistent to avoid issues."
+  },
+  {
+    "id": 91,
+    "quote": "GPU rendering is usually faster\u2014check Preferences."
+  },
+  {
+    "id": 92,
+    "quote": "Ctrl+Shift+Click to add loops with Knife tool."
+  },
+  {
+    "id": 93,
+    "quote": "Try geometry nodes for procedural modeling."
+  },
+  {
+    "id": 94,
+    "quote": "Limit subdivision levels for heavy meshes."
+  },
+  {
+    "id": 95,
+    "quote": "GPU memory is precious\u2014optimize textures."
+  },
+  {
+    "id": 96,
+    "quote": "Append materials instead of re-creating them."
+  },
+  {
+    "id": 97,
+    "quote": "Enable auto-save in Preferences to prevent data loss."
+  },
+  {
+    "id": 98,
+    "quote": "Use cavity maps for material detail."
+  },
+  {
+    "id": 99,
+    "quote": "Use Sculpt Dynamic Topology for detail freedom."
+  },
+  {
+    "id": 100,
+    "quote": "Always backup important project files!"
+  }
+]
