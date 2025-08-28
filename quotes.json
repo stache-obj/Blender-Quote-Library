@@ -1,20 +1,25 @@
 [
   {
-    "id": 1,
-    "quote": "Hello"
+    "quote": "Hello",
+    "button": "none",
+    "link": "none"
   },
   {
-    "id": 2,
-    "quote": "Good character when established is not easily overthrown and is a fruitful source of good life. It is built patiently. - Socrates"
+    "quote": "Good character when established is not easily overthrown and is a fruitful source of good life. It is built patiently. - Socrates",
+    "button": "none",
+    "link": "none"
   },
  {
-    "id": 4,
-    "quote": "Blender? I hardly even know her!"
+    "quote": "Willie",
+   "button": "https://youtu.be/I5pG1wbRKOg",
+    "link": "watch"
   },
   
   {
     "id": 3,
-    "quote": "There are times to stay put and what you want will come to you, and there are times to go out into the world and find such a thing for yourself."
+    "quote": "Addon Link",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/flipfluids?ref=1639"
   }
   
 ]
