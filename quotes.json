@@ -1,25 +1,1333 @@
 [
   {
-    "quote": "Hello",
+    "quote": "Inspiration is for amateurs; the rest of us just show up and get to work. – Chuck Close",
     "button": "none",
     "link": "none"
   },
   {
-    "quote": "Good character when established is not easily overthrown and is a fruitful source of good life. It is built patiently. - Socrates",
+    "quote": "Inspiration exists, but it has to find you working. – Pablo Picasso",
     "button": "none",
     "link": "none"
   },
- {
-    "quote": "Willie steambot is the first animation of the beloved character micky mouse. it recently lost it's copyright and is now freely availble on the internet for free with cc0 license",
-   "button": "watch",
-    "link": "https://youtu.be/I5pG1wbRKOg"
+
+  {
+    "quote": "Done is better than perfect. – Sheryl Sandberg",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "One step at a time, you’ll get there.",
+    "button": "none",
+    "link": "none"
+  },
+ 
+  {
+    "quote": "Every piece of art has an ugly stage. And the only way to get past it--is to keep working at it!",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Create for you first. That way, there will always be at least one person who enjoys your work!",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Who cares if no one else likes it, as long as you do.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "A year from now you’ll wish you started today. – Karen Lamb",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Trust the process. It may look like crap now, but it’ll get better.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The perfect is the enemy of the good. – Voltaire",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Nothing is as scary as a blank canvas. Just get something down; you can fix it later.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "It doesn’t matter how the paint is put on, as long as something is said. – Jackson Pollock",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Probably 90% of what any artist does is practice. – Dorianne Laux",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "No matter your level, someone out there wishes they were where you are now.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better. – Samuel Beckett",
+    "button": "none",
+    "link": "none"
+  },
+  
+
+  {
+    "quote": "If I wait for inspiration to hit before I work, I’ll get old waiting.",
+    "button": "none",
+    "link": "none"
+  },
+
+
+  {
+    "quote": "If you hear a voice within you say ‘you cannot paint,’ then by all means paint, and that voice will be silenced. – Vincent van Gogh",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "We don’t make mistakes – just happy little accidents. – Bob Ross",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Every artist was first an amateur. – Ralph Waldo Emerson",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Have no fear of perfection, you’ll never reach it. – Salvador Dalí",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "You can’t wait for inspiration, you have to go after it with a club. – Jack London",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Don’t think about making art, just get it done. Let everyone else decide if it’s good or bad. While they are deciding, make even more art. – Andy Warhol",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "To practice any art, no matter how well or badly, is a way to make your soul grow. So do it. – Kurt Vonnegut",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "To create one’s own world takes courage. – Georgia O’Keeffe",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "If people knew how hard I worked to get my mastery, it wouldn’t seem so wonderful at all. – Michelangelo",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "An artist cannot fail; it is a success to be one. – Charles Horton Cooley",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Great things are done by a series of small things brought together. – Vincent van Gogh",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "It took me four years to paint like Raphael, but a lifetime to paint like a child. – Pablo Picasso",
+    "button": "none",
+    "link": "none"
+  },
+ 
+  {
+    "quote": "I would rather die of passion than of boredom. – Vincent van Gogh",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Learn the rules like a pro, so you can break them like an artist. – Pablo Picasso",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Sucking at something is the first step to being sorta good at something. – Jake (Adventure Time)",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "It does not matter how slowly you go as long as you do not stop. – Confucius",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The expert in anything was once a beginner. – Helen Hayes",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Don’t compare your beginning to someone else’s middle. – Jon Acuff",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Slow progress is still progress.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "I have not failed. I’ve just found 10,000 ways that won’t work. – Thomas Edison",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Do not fear mistakes. There are none. – Miles Davis",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Practice isn’t the thing you do once you’re good. It’s the thing you do that makes you good. – Malcolm Gladwell",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "You are allowed to be both a masterpiece and a work in progress simultaneously. – Sophia Bush",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Continuous improvement is better than delayed perfection. – Mark Twain",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Don’t compare your progress to that of others. We need our own time to travel our own distance.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "If you’re walking down the right path and you’re willing to keep walking, eventually you’ll make progress. – Barack Obama",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Keep going, and don’t worry about your speed. You’re making progress, even if it doesn’t seem like it. Forward is forward, no matter how slow. – Lori Deschene",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Failure is success in progress. – Albert Einstein",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Be not afraid of going slowly, be afraid only of standing still.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The only time you should ever look back is to see how far you’ve come. – BTS",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The elevator to success is out of order. You’ll have to use the stairs... one step at a time. – Joe Girard",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Amateurs sit and wait for inspiration, the rest of us just get up and go to work. – Stephen King",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "You can’t use up creativity. The more you use, the more you have. – Maya Angelou",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Motivation is what gets you started. Habit is what keeps you going. – Jim Rohn",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The worst enemy to creativity is self-doubt. – Sylvia Plath",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Genius is patience. – Isaac Newton",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Adopt the pace of nature: her secret is patience. – Ralph Waldo Emerson",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The day you plant the seed is not the day you eat the fruit.",
+    "button": "none",
+    "link": "none"
+  },
+ 
+  {
+    "quote": "Do, or do not. There is no try. – Yoda",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Whatever you’re meant to do, do it now. The conditions are always impossible. – Doris Lessing",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The one thing that you have that nobody else has is you – your voice, your mind, your story, your vision. So write and draw and build and play and dance and live as only you can. – Neil Gaiman",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "It ain’t about how hard you hit; it’s about how hard you can get hit and keep moving forward. – Rocky Balboa",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "I fear not the man who has practiced 10,000 kicks once, but the one who has practiced one kick 10,000 times. – Bruce Lee",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Great works are performed not by strength, but by perseverance. – Samuel Johnson",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The journey of a thousand miles begins with a single step. – Lao Tzu",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "If you’re going through hell, keep going. – Winston Churchill",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Imagination is more important than knowledge. Knowledge is limited; imagination encircles the world. – Albert Einstein",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Experience is simply the name we give to our mistakes. – Oscar Wilde",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "If you’re not making mistakes, then you’re not doing anything. – John Wooden",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Creativity is just procrastination in a fancy disguise.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Talent is a pursued interest. Anything that you’re willing to practice, you can do. – Bob Ross",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "I am always doing that which I cannot do, in order that I may learn how to do it. – Pablo Picasso",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Whether you think you can or you think you can’t, you’re right. – Henry Ford",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Do one thing every day that scares you. – Eleanor Roosevelt",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "There is a crack in everything. That’s how the light gets in. – Leonard Cohen",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "People often say that motivation doesn’t last. Well, neither does bathing – that’s why we recommend it daily. – Zig Ziglar",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "You don’t have to be great to start, but you have to start to be great. – Zig Ziglar",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Just keep swimming. – Dory (Finding Nemo)",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The master has failed more times than the beginner has even tried. – Stephen McCranie",
+    "button": "none",
+    "link": "none"
+  },
+  
+    {
+    "quote": "Blender was first created in 1994 by Ton Roosendaal inside the Dutch studio NeoGeo as an in-house tool for animation.",
+    "button": "none",
+    "link": "none"
+  },
+  
+    {
+    "quote": "The name 'Blender' was inspired by a song by the Swiss electronic band Yello.",
+    "button": "none",
+    "link": "none"
   },
   
   {
-    "id": 3,
-    "quote": "if you need to make water simulations in blender, there is only one Addon that is stable enough to do that. that is flipfluids. click download below to check it out!",
+    "quote": "Not a Number (NaN), a company founded by Ton Roosendaal in 1998, was created to market and develop Blender commercially. NaN collapsed in 2002 when funding dried up, leaving Blender’s future uncertain. The Blender community raised €110,000 in just seven weeks in the 'Free Blender' campaign of 2002, saving the software.",
+    "button": "none",
+    "link": "none"
+  },
+  
+  {
+    "quote": "Blender’s first open movie, 'Elephants Dream' (2006), was the world’s first open-source animated short film.",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=TLkA0RELQ1g"
+  },
+    {
+    "quote": "The Argentinian feature film 'Plumíferos' (2010) was the first theatrical feature made entirely in Blender.",
+    "button": "none",
+    "link": "link"
+  },
+    {
+    "quote": "Netflix’s 'Next Gen' (2018) was a feature film created entirely in Blender by Tangent Animation.",
+    "button": "none",
+    "link": "link"
+  },
+    {
+    "quote": "Spider-Man: Across the Spider-Verse (2023) used Blender’s Grease Pencil for hand-drawn linework effects.",
+    "button": "none",
+    "link": "link"
+  },
+    {
+    "quote": "A fan-made LEGO Spider-Man sequence animated in Blender was included in 'Spider-Verse' (2023).",
+    "button": "none",
+    "link": "link"
+  },
+  {
+    "quote": "In 2025, the Latvian film 'Flow,' rendered in Eevee, won the Academy Award for Best Animated Feature.",
+    "button": "none",
+    "link": "link"
+  },
+   {
+    "quote": "BlenderArtists.org remains the largest dedicated forum for Blender users since the early 2000s.",
+    "button": "none",
+    "link": "link"
+  },
+   {
+    "quote": "In 2004, Blender was used for pre-visualization on Spider-Man 2, one of its first Hollywood credits.",
+    "button": "none",
+    "link": "link"
+  },
+    {
+    "quote": "Blender’s transition from right-click select to left-click default in 2.8 was one of its most controversial changes.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "The Blender Institute building in Amsterdam features a massive glass monkey head above its door.",
+    "button": "none",
+    "link": "link"
+  },
+    {
+    "quote": "Blender has been used by NASA for scientific visualization.",
+    "button": "none",
+    "link": "improve and link"
+  },
+    {
+    "quote": "Blender’s open-source license ensures it will always remain free to use.",
+    "button": "none",
+    "link": "link"
+  },
+    {
+    "quote": "Blender’s source code is hosted on Git, with thousands of contributors everyday.",
+    "button": "none",
+    "link": "check"
+  },
+    {
+    "quote": "Blender’s mascot Suzanne was once called the 'Hello World' of Blender renders.",
+    "button": "none",
+    "link": "none"
+  },
+  
+    {
+    "quote": "Blender’s free and open nature has inspired countless creatives to pursue 3D without financial barriers. If you are someone who has made a sizeable income with the help of blender, please consider donating to the blender dev fund. Even if it's just 1$, every donation counts and goes a long supporting the development of this awesome tool!",
+    "button": "none",
+    "link": "none"
+  },
+  
+  {
+    "quote": "The greatest impediment to creativity is your impatience, the almost inevitable desire to hurry up the process, express something, and make a splash. - Robert Greene",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "In this there is no measuring with time, a year doesn’t matter, and ten years are nothing. Being an artist means: not numbering and counting, but ripening like a tree... patience is everything! - Rainer Maria Rilke",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "No great thing is created suddenly, any more than a bunch of grapes or a fig. There must be time. Let it first blossom, then bear fruit, then ripen. - Epictetus",
+    "button": "none",
+    "link": "none"
+  },
+  
+  {
+    "quote": "Genius is nothing but a great aptitude for patience. - George-Louis de Buffon",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Timing, perseverance, and ten years of trying will eventually make you look like an overnight success. - Biz Stone",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "I start early and I stay late, day after day, year after year. It took me 17 years and 114 days to become an overnight success. - Lionel Messi",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Most people overestimate what they can do in one year and underestimate what they can do in ten years. - Bill Gates",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "All things are difficult before they are easy. - Thomas Fuller",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Great works are performed not by strength but by perseverance. - Samuel Johnson",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Patience, persistence and perspiration make an unbeatable combination for success. - Napoleon Hill",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "It's not that I'm so smart, it's just that I stay with problems longer. - Albert Einstein",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Don't judge each day by the harvest you reap but by the seeds that you plant. - Robert Louis Stevenson",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Rome wasn't built in a day. So whatever you're building is gonna take time too. It's definitely not bigger than Rome, is it?",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The man who moves a mountain begins by carrying away small stones. - Confucius",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Slow and steady wins the race. - Aesop",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Your first 10,000 photographs are your worst. - Henri Cartier-Bresson (for us, it's 3d renders)",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "We all have 10,000 bad drawings in us. The sooner we get them out the better. - Walt Stanchfield",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Every artist was first an amateur. - Ralph Waldo Emerson",
+    "button": "none",
+    "link": "none"
+  },
+ 
+ 
+  {
+    "quote": "Patience you must have, my young Padawan. - Yoda",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Nobody tells this to people who are beginners... It's gonna take awhile. You've just gotta fight your way through. - Ira Glass",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "The master has failed more times than the beginner has even tried. - Stephen McCranie",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Perseverance is failing 19 times and succeeding the 20th. - Julie Andrews",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The two most powerful warriors are patience and time. - Leo Tolstoy",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Many of life's failures are people who did not realize how close they were to success when they gave up. - Thomas Edison",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway. - Earl Nightingale",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Anything worth doing is worth doing slowly. - Mae West",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Art is long, life is short. - Hippocrates",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Good things come to those who wait.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Patience is bitter, but its fruit is sweet. - Aristotle",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The day you plant the seed is not the day you eat the fruit.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "It always seems impossible until it's done. - Nelson Mandela",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Half of what separates successful entrepreneurs from non-successful ones is pure perseverance. - Steve Jobs",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Never discourage anyone who continually makes progress, no matter how slow. - Plato",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "This hobby or career is a marathon, not a sprint.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Enjoy the process of learning and growing; it's a journey. Not a Destination. If it's just the end-goal that excites you, and not the process, you're gonna be disappointed sooner or later.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "In order to have a real relationship with our creativity, we must take the time and care to cultivate it. - Julia Cameron",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Growth is an erratic forward movement: two steps forward, one step back. So, Be gentle with yourself. - Julia Cameron",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Judging your early artistic efforts is artist abuse. - Julia Cameron",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "It is impossible to get better and look good at the same time. - Julia Cameron",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "This is how you do it: you sit down and you put one word after another until it's done. It's that easy, and that hard. - Neil Gaiman",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Sucking at something is the first step to being sorta good at something. - Jake (Adventure Time)",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Nothing in this world can take the place of persistence... Persistence and determination alone are omnipotent. - Calvin Coolidge",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Winners never quit and quitters never win. - Vince Lombardi",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "We don't make mistakes. We just have happy accidents. - Bob Ross",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Talent is a pursued interest. Anything that you're willing to practice, you can do. - Bob Ross",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Continuous improvement is better than delayed perfection. - Mark Twain",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Perfect is the enemy of good. - Voltaire",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "As I work at my drawings day after day, what seemed unattainable before is now gradually becoming possible. - Vincent van Gogh",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Great things are not done by impulse, but by a series of small things brought together. - Vincent van Gogh",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "I am always doing what I cannot do yet, in order to learn how to do it. - Vincent van Gogh",
+    "button": "none",
+    "link": "none"
+  },
+ 
+
+  {
+    "quote": "Little strokes fell great oaks. - Benjamin Franklin",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "He that can have patience can have what he will. - Benjamin Franklin",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "What comes easy won't last, what lasts won't come easy.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Experience is what you get when you didn't get what you wanted. - Randy Pausch",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Failure is simply the opportunity to begin again, this time more intelligently. - Henry Ford",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "You are never too old to set another goal or to dream a new dream. - C. S. Lewis",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Dreams don't work unless you do. - John C. Maxwell",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Hard work beats talent when talent doesn't work hard. - Tim Notke",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Success consists of going from failure to failure without loss of enthusiasm. - Winston Churchill",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Never confuse a single defeat with a final defeat. - F. Scott Fitzgerald",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Start where you are. Use what you have. Do what you can. - Arthur Ashe",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The worst enemy to creativity is self-doubt. - Sylvia Plath",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "It takes a lot of time to be a genius. You have to sit around so much, doing nothing, really doing nothing. - Gertrude Stein",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Genius is often but perseverance in disguise. - Henry Austin",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Just because it's not happening right now doesn't mean it never will.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Every day it gets a little easier. But you gotta do it every day – that's the hard part. But it does get easier. - BoJack Horseman",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Fall in love with the process, and the results will come.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "I am still learning. - Michelangelo",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "He who would learn to fly one day must first learn to stand and walk and run and climb and dance; one cannot fly into flying. - Friedrich Nietzsche",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "While beveling an edge (Ctrl+B), press P to flip the curve direction to the inside, useful for smoothing classic elements like wall trims.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "When adding a loop cut (Ctrl+R) and moving it, press E or F to match the cut's shape with one of the corners, helping create parallel cuts on the mesh.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "Save selected vertices by creating a **Vertex Group** (plus button, assign) to easily re-select them later, enhancing workflow for complex models.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "Hold ALT while changing a parameter (e.g., size, rotation) with multiple objects selected to apply the change to all of them at once.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "When using planes as lights, prevent them from lighting their backside by connecting the **Backface output of a Geometry node** to the factor of a **Mix Shader**.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Enable **Cavity** (World or Screen) in Viewport Shading settings to enhance depth perception and clearly see details on your object's surface.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "Center your view on selected objects or elements in any mode (Object, Edit, Outliner) by pressing Numpad Period (.).",
+    "button": "none",
+    "link": "none"
+  },
+  
+  
+    {
+    "quote": "Set your viewport to **'Orbit Around Selection'** in Navigation preferences to rotate the view around your currently selected elements, across all modes.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "Isolate selected objects for focused work by pressing Slash (/) to enter Local View; press again to exit without affecting other hidden objects.",
+    "button": "none",
+    "link": "none"
+  },
+  
+    {
+    "quote": "Split your 3D viewport into four simultaneous views (perspective, top, front, right) by pressing Ctrl+Alt+Q, ideal for modeling from multiple angles.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "Perform mathematical operations (e.g., '90 + 5' or '95 + 20 - 50 / 100') directly within any numeric input field in Blender.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "Quickly reset a numeric value to its default (or zero) by hovering over it and pressing **Backspace**.",
+    "button": "none",
+    "link": "none"
+  },
+  
+    {
+    "quote": "Access the relevant Blender Wiki documentation page for a specific feature by hovering over it and pressing **F1** (requires internet connection).",
+    "button": "none",
+    "link": "none"
+  },
+  
+    {
+    "quote": "In edit mode, quickly grow or shrink your selection by pressing **Ctrl+Numpad Plus (+) or Numpad Minus (-)**.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "Select all connected faces under your cursor by hovering over a mesh part and pressing **L** in edit mode.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "Press **G twice** in edit mode to slide edges or vertices along existing surfaces without deforming the mesh.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "Randomize the location, rotation, or scale of multiple objects by selecting them and going to **Object > Transform > Randomize Transform**.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Add frequently used modifiers or functions to your **Quick Favorites menu** by right-clicking them and selecting 'Add to Quick Favorites'; access them quickly with the **Q key**.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "Quickly rename selected objects by pressing **F2**.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "Perform batch renaming of multiple objects or data types by selecting them and pressing **Ctrl+F2**.",
+    "button": "none",
+    "link": "none"
+  },
+   {
+    "quote": "Rotate your view while holding **Alt** to quickly snap to orthographic views, even without a numpad.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "In Blender 4.5+, switch the display graphics backend to **Vulan** in preferences for improved viewport and file loading performance.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "Reduce file size by going to **File > Cleanup > Purge Unused Data** to remove any unnecessary data from your blend file.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "Copy and paste color values between color pickers on the same screen by **dragging and dropping**, or use **Ctrl+C / Ctrl+V** for pickers on different screens.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "Navigate your scene like a video game using **Walk or Fly mode (Shift+Tilde)**, with W,A,S,D to move and mouse to look around.",
+    "button": "none",
+    "link": "none"
+  },
+  
+    {
+    "quote": "Winsor McCay’s 'Gertie the Dinosaur' (1914) helped invent character animation by giving a drawn dinosaur a distinct personality.",
+    "button": "none",
+    "link": "link"
+  },
+    {
+    "quote": "Max Fleischer invented the rotoscope in 1915, letting animators trace live action for smoother, more realistic motion.",
+    "button": "none",
+    "link": "link"
+  },
+    {
+    "quote": "Lotte Reiniger’s 'The Adventures of Prince Achmed' (1926) is the oldest surviving animated feature, crafted with silhouette cut-outs.",
+    "button": "none",
+    "link": "link"
+  },
+    {
+    "quote": "Disney’s 'Steamboat Willie' (1928) popularized synchronized sound in cartoons and launched Mickey Mouse to stardom.",
+    "button": "none",
+    "link": "more"
+  },
+    {
+    "quote": "Disney’s 'Flowers and Trees' (1932) was the first Technicolor cartoon and the first animated short to win an Oscar.",
+    "button": "none",
+    "link": "link"
+  },
+    {
+    "quote": "'Tin Toy' (1988) became the first CGI film to win an Academy Award, a preview of Pixar’s future.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "Pixar’s 'Toy Story' (1995) was the first feature-length film made entirely with CGI.",
+    "button": "none",
+    "link": "link"
+  },
+    {
+    "quote": "'Toy Story 2' (1999) was accidentally deleted mid-production—rescued by a home backup from a technical director.",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "The Academy Award for Best Animated Feature debuted in 2001; 'Shrek' won the inaugural Oscar.",
+    "button": "none",
+    "link": "none"
+  },
+  
+  {
+    "quote": "Blender is the world’s most powerful free 3D creation tool, built entirely by volunteers and community funding. If Blender has been a significant part of your creative journey, please consider donating to the devfund using the donate button below!",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Unlike other industry tools that cost thousands, Blender is free forever. It is the support of this awesome community that keeps it in development and helps it grow. If you are in a financial position to support this awesome tool, please consider donating to the fund using the link below.",
+    "button": "none",
+    "link": "none"
+  },
+
+
+  {
+    "quote": "Blender’s development fund directly supports programmers that help develop it and advance it at such a quick rate. Every donation translates into more tools for creators worldwide. So please consider donating. Even if it's a single dollar!",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "When you donate to Blender, you’re not just funding software—you’re funding freedom, creativity, and access for millions of artists world-wide. If you haven't already, please consider donating to the blender dev fund.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Think of the last Blender tutorial that inspired you—it exists because Blender itself exists. Donations make that inspiration possible. If you are in the financila position to support a tool like blender, consider donating to the blender dev fund using the link below!",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "A small donation from you could mean a massive impact for the blender community-—faster updates, better tools, and a stronger Blender for the future. If you haven't already, please consider donating to the blender dev fun.",
+    "button": "none",
+    "link": "none"
+  },
+  
+  {
+    "quote": "Blender is free for you—because several others donated to the dev fund to keep it free. If you have the financial resources to pass that support on, please click on the donate button below to make a donation to the blender dev fund!",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Every feature you love in Blender exists because someone donated a dollar somewhere someday. Be that somebody for someone else. Make a donation to the dev fund today using the link below.",
+    "button": "none",
+    "link": "none"
+  },
+  
+    {
+    "quote": "Lighting is what makes or breaks a render. Most users think of Lighting from the perspective of illumination. But true lighitng potential can only unlocked when you look at lighting through perspective of shadows.",
+    "button": "none",
+    "link": "none"
+  },
+  
+     {
+    "quote": "Your Render sucks at the moment is because it needs more time. It needs more love. It probably needs more details. Or it just needs a fresh restart. Don't give up. Good things take time.",
+    "button": "none",
+    "link": "none"
+  },
+     {
+    "quote": "This addon was built by me because i wanted a dose of motivation every time i opened up blender. Just that tiny idea has flourished to this full-fledged addon. It took weeks to design this addon. If you find it useful, consider donating on gumroad, or donate a quote by clicking the button below or just support me from any of the links you see on the top right of this bubble!",
+    "button": "none",
+    "link": "none"
+  },
+     {
+    "quote": "This is addon is called Toaster 3D. It's a play on the name of this tool Blender-3D.",
+    "button": "none",
+    "link": "none"
+  },
+     {
+    "quote": "Making 3D Renders is hard. It seems easy from afar, but it's one of the toughest modes of expressions and better people than you have failed at it than you can imagine. So, if you have made it this far, you've already crossed 1000s of people. Keep going. Show the world, what crazy things your mind can come up with!",
+    "button": "none",
+    "link": "none"
+  },
+     {
+    "quote": "A lot of people in this age of AI ask me, is it still worth learning blender. To them i say, was it not worth learning to cook even though you can order food online. Was it not work learning to ride a bike, even though you can drive anywhere. Every creative skill, every techinical tool learned will just improve you as an artist. So yes, Blender is, and will always be totally worth learning!",
+    "button": "none",
+    "link": "none"
+  },
+     {
+    "quote": "Press Alt-M and then X, Y or Z to mirror it on any axis!",
+    "button": "none",
+    "link": "none"
+  },
+  
+   {
+    "quote": "You can install Blender from Steam or the Microsoft store if you want to receive automatic updates.",
+    "button": "none",
+    "link": "none"
+  },
+  
+   {
+    "quote": "The Default cube has been the victim of countless abuses. It doesn't mind getting deleted. But it hates it when you delete it only to summon another non-default cube in it's place. That is gaslighting!",
+    "button": "none",
+    "link": "none"
+  },
+  
+   {
+    "quote": "Imagine paying a cancellation fee everytime you deleted Blender.",
+    "button": "none",
+    "link": "none"
+  },
+  
+   {
+    "quote": "Add fog to your scene. Doesn't matter what the scene is. Just add fog. Fog fixes everything. Why won't you add fog? Just add fog. Fog it up! I Fogging dare you!",
+    "button": "none",
+    "link": "none"
+  },
+  
+     {
+    "quote": "Checkout the Blender Default Cube Music Video from the link below!",
+    "button": "watch",
+    "link": "https://youtu.be/YZ_jTRkvpgk"
+  },
+  
+   {
+    "quote": "6 Tips I'd avoid if I were to learn Blender all over again!",
+    "button": "watch",
+    "link": "https://youtu.be/l_N53XCqsxk"
+  },
+  
+
+   {
+    "quote": "I made Video-Game In Blender!",
+    "button": "watch",
+    "link": "https://youtu.be/JbqjN8ywE9o"
+  },
+  
+
+   {
+    "quote": "Learn invaluable Blender Optimization Techniques from this Video Below!",
+    "button": "watch",
+    "link": "https://youtu.be/a0GW8Na5CIE"
+  },
+  
+
+   {
+    "quote": "Watch this beautiful 35mm short film made with Blender!",
+    "button": "watch",
+    "link": "https://youtu.be/ou6qYoG2n1I"
+  },
+  
+
+   {
+    "quote": "Watch this beautiful surrealistic short-film made entirely in Blender!",
+    "button": "watch",
+    "link": "https://youtu.be/lMSc2Pi98q8"
+  },
+  
+
+   {
+    "quote": "If physics and Coffee were mixed together, this is the kind of 3d-animated short film you would get!",
+    "button": "watch",
+    "link": "https://youtu.be/UtTgoeaiHvg"
+  },
+   {
+    "quote": "If you've ever wanted to make realistic looking foam in your renders, you gotta checkout the Foam Shader addon!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/foam-shader?ref=1639"
+  },
+  
+
+   {
+    "quote": "The Blender Camera is kinda fake. It is too perfect when compared to a real world camera. It has literally no imperfections. That's why you need an addon like the 'Lens Sim' addon, coz it gives you access to an absolutely Physically Accurate Real World Camera right within in Blender!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/lens-sim?ref=1639"
+  },
+  
+
+ 
+   {
+    "quote": "If you have ever struggled with Lighting in Blender. Or you hate how artificial the Blender Light sources look, you gotta checkout the Light Wrangler Addon. It will completely change your Lighting Workflow.",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/light-wrangler?ref=1639"
+  },
+  
+
+   {
+    "quote": "Nobody Likes Retopology. Unless they use this addon!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/retopoflow?ref=1639"
+  },
+  
+   {
+    "quote": "Color Grade Your Renders Directly Within Blender. No Davinci Reosolve. No After-Effects. Streamline your color grading workflow. Render Raw is Crazy Powerful!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/render-raw?ref=1639"
+  },
+  
+
+   {
+    "quote": "UV-Unwrapping shouldn't be this hard. And it isn't when you use UV-flow!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/uv-flow?ref=1639"
+  },
+  
+   {
+    "quote": "Only an insane person uses the default blender fluid simulation tools. just get flipfluids, and you will save 5 years of your life of just baking erratic mantaflow shennanigans.",
     "button": "download",
     "link": "https://superhivemarket.com/products/flipfluids?ref=1639"
+  },
+  
+
+   {
+    "quote": "Spice Up your lights in Blender. Try IES Lights!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/iesplus?ref=1639"
+  },
+  
+   {
+    "quote": "Need some insanely realistic glass shaders. Check the link below. Thank me Later!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/shadersplus?ref=1639"
+  },
+  
+
+   {
+    "quote": "Ivies Make Every Environment Beautiful. No better Addon than Bagaivy to make Ivies in Blender!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/bagaivy?ref=1639"
+  },
+  
+   {
+    "quote": "No better Rain Simulator in Blender than the BagaRain Generator Addon!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/rain-generator?ref=1639"
+  },
+  
+
+   {
+    "quote": "Ocean Modifier is for losers. Try the Physical Open Waters Addon. It was used on an Oscar Winning Film Godammit!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/physical-open-waters?ref=1639"
+  },
+  
+   {
+    "quote": "I don't think I use HDRIs anymore. It's just this addon most of the days and I am done. Beautiful lighitng in seconds!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/physical-starlight-and-atmosphere?ref=1639"
+  },
+  
+
+   {
+    "quote": "Best Material Library in Blender. Period.",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/sanctus-library-addon---procedural-shaders-collection-for-blender?ref=1639"
+  },
+  
+   {
+    "quote": "The easiest way to add details to any of your renders, is to just add some crowds in the background. No better addon to do that than procedural crowds!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/procedural-crowds?ref=1639"
+  },
+  
+
+   {
+    "quote": "HDRIs are for losers. Try TrueSky. Forget HDRI's forever!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/true-sky?ref=1639"
+  },
+  
+   {
+    "quote": "What better way to add details to a render than some dust and some moths. Checkout Dust Particles Pro Plus from the link below.",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/dust-particles?ref=1639"
+  },
+  
+
+   {
+    "quote": "Hands Down, the best lighting course ever. I think I can clealy see a difference in the quality of my renders before and after i took this course. get it, now! and thank me later!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/cinematic-lighting-in-blender?ref=1639"
+  },
+  
+   {
+    "quote": "Making a Car-Based Animation? The RBC addon converts your car model into a driveable remote controlled car WITHIN BLENDER! With actual spring physics and drifiting mechanics. Don't make a car based short film without RBC. Please. I beg you!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/rbc-addon?ref=1639"
+  },
+  
+   {
+    "quote": "Need Trees? Get Botaniq you Dummy!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/botaniq-trees?ref=1639"
+  },
+     {
+    "quote": "Claymation without Claydoh is just plain Stupid!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/claydoh?ref=1639"
+  },
+     {
+    "quote": "If you are not using Geoscatter for scattering, I don't think we're gonna be friends!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/scatter?ref=1639"
+  },
+     {
+    "quote": "Need a Photorealistic Human Character within Blender? Get the Human Generator Right now!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/humgen3d?ref=1639"
+  },
+     {
+    "quote": "Gobos are the next best thing to happen to lighting since, the bulb!",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/gobos?ref=1639"
+  },
+     {
+    "quote": "Is a 3D Render even a 3D render without some imperfections.",
+    "button": "download",
+    "link": "https://superhivemarket.com/products/realistictouch?ref=1639"
   }
   
-]
+  
+  ]
