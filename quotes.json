@@ -418,63 +418,60 @@
   },
     {
     "quote": "The Argentinian feature film 'Plumíferos' (2010) was the first theatrical feature made entirely in Blender.",
-    "button": "none",
-    "link": "link"
+    "button": "learn more",
+    "link": "https://en.wikipedia.org/wiki/Plum%C3%ADferos"
   },
     {
     "quote": "Netflix’s 'Next Gen' (2018) was a feature film created entirely in Blender by Tangent Animation.",
-    "button": "none",
-    "link": "link"
+    "button": "watch",
+    "link": "https://www.imdb.com/title/tt7133686/"
   },
-    {
+    {	
     "quote": "Spider-Man: Across the Spider-Verse (2023) used Blender’s Grease Pencil for hand-drawn linework effects.",
-    "button": "none",
-    "link": "link"
+    "button": "learn more",
+    "link": "https://conference.blender.org/2023/presentations/1928/?utm_source=chatgpt.com"
   },
     {
     "quote": "A fan-made LEGO Spider-Man sequence animated in Blender was included in 'Spider-Verse' (2023).",
-    "button": "none",
-    "link": "link"
+    "button": "learn more",
+    "link": "https://conference.blender.org/2023/presentations/1823/?utm_source=chatgpt.com"
   },
   {
     "quote": "In 2025, the Latvian film 'Flow,' rendered in Eevee, won the Academy Award for Best Animated Feature.",
-    "button": "none",
-    "link": "link"
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=DkgMqcnK0KY"
   },
    {
     "quote": "BlenderArtists.org remains the largest dedicated forum for Blender users since the early 2000s.",
-    "button": "none",
-    "link": "link"
+    "button": "link",
+    "link": "https://blenderartists.org/"
   },
    {
     "quote": "In 2004, Blender was used for pre-visualization on Spider-Man 2, one of its first Hollywood credits.",
-    "button": "none",
-    "link": "link"
+    "button": "learn more",
+    "link": "https://blenderartists.org/t/pride-for-spiderman-2-blender-and-this-entire-community/331970?utm_source=chatgpt.com"
   },
     {
     "quote": "Blender’s transition from right-click select to left-click default in 2.8 was one of its most controversial changes.",
     "button": "none",
     "link": "none"
   },
-    {
-    "quote": "The Blender Institute building in Amsterdam features a massive glass monkey head above its door.",
-    "button": "none",
-    "link": "link"
-  },
-    {
-    "quote": "Blender has been used by NASA for scientific visualization.",
-    "button": "none",
-    "link": "improve and link"
-  },
+
+ {
+  "quote": "NASA has used Blender for scientific visualization, including the 'Experience Curiosity' web app to showcase the Mars rover, and for visualizing global sea-level changes at the Scientific Visualization Studio during the pandemic.",
+  "button": "none",
+  "link": "https://www.blendernation.com/2015/08/07/nasa-uses-blender-and-blend4web-on-their-new-curiosity-website/?utm_source=chatgpt.com"
+},
+
     {
     "quote": "Blender’s open-source license ensures it will always remain free to use.",
     "button": "none",
     "link": "link"
   },
     {
-    "quote": "Blender’s source code is hosted on Git, with thousands of contributors everyday.",
-    "button": "none",
-    "link": "check"
+    "quote": "You can view all of Blender’s Git history — including commits, diffs, authors, and branches — on the projects.blender.org Diffusion interface and via its public mirror on GitHub.",
+    "button": "learn more",
+    "link": "https://github.com/blender/blender"
   },
     {
     "quote": "Blender’s mascot Suzanne was once called the 'Hello World' of Blender renders.",
@@ -854,7 +851,7 @@
     "link": "none"
   },
     {
-    "quote": "Save selected vertices by creating a **Vertex Group** (plus button, assign) to easily re-select them later, enhancing workflow for complex models.",
+    "quote": "Save selected vertices by creating a Vertex Group (plus button, assign) to easily re-select them later, enhancing workflow for complex models.",
     "button": "none",
     "link": "none"
   },
@@ -864,12 +861,12 @@
     "link": "none"
   },
     {
-    "quote": "When using planes as lights, prevent them from lighting their backside by connecting the **Backface output of a Geometry node** to the factor of a **Mix Shader**.",
+    "quote": "When using planes as lights, prevent them from lighting their backside by connecting the Backface output of a Geometry node to the factor of a Mix Shader.",
     "button": "none",
     "link": "none"
   },
   {
-    "quote": "Enable **Cavity** (World or Screen) in Viewport Shading settings to enhance depth perception and clearly see details on your object's surface.",
+    "quote": "Enable Cavity (World or Screen) in Viewport Shading settings to enhance depth perception and clearly see details on your object's surface.",
     "button": "none",
     "link": "none"
   },
@@ -881,7 +878,7 @@
   
   
     {
-    "quote": "Set your viewport to **'Orbit Around Selection'** in Navigation preferences to rotate the view around your currently selected elements, across all modes.",
+    "quote": "Set your viewport to 'Orbit Around Selection' in Navigation preferences to rotate the view around your currently selected elements, across all modes.",
     "button": "none",
     "link": "none"
   },
@@ -902,188 +899,184 @@
     "link": "none"
   },
     {
-    "quote": "Quickly reset a numeric value to its default (or zero) by hovering over it and pressing **Backspace**.",
+    "quote": "Quickly reset a numeric value to its default (or zero) by hovering over it and pressing Backspace.",
     "button": "none",
     "link": "none"
   },
   
     {
-    "quote": "Access the relevant Blender Wiki documentation page for a specific feature by hovering over it and pressing **F1** (requires internet connection).",
+    "quote": "Access the relevant Blender Wiki documentation page for a specific feature by hovering over it and pressing F1 (requires internet connection).",
     "button": "none",
     "link": "none"
   },
   
     {
-    "quote": "In edit mode, quickly grow or shrink your selection by pressing **Ctrl+Numpad Plus (+) or Numpad Minus (-)**.",
+    "quote": "In edit mode, quickly grow or shrink your selection by pressing Ctrl+Numpad Plus (+) or Numpad Minus (-).",
     "button": "none",
     "link": "none"
   },
     {
-    "quote": "Select all connected faces under your cursor by hovering over a mesh part and pressing **L** in edit mode.",
+    "quote": "Select all connected faces under your cursor by hovering over a mesh part and pressing L in edit mode.",
     "button": "none",
     "link": "none"
   },
     {
-    "quote": "Press **G twice** in edit mode to slide edges or vertices along existing surfaces without deforming the mesh.",
+    "quote": "Press G twice in edit mode to slide edges or vertices along existing surfaces without deforming the mesh.",
     "button": "none",
     "link": "none"
   },
     {
-    "quote": "Randomize the location, rotation, or scale of multiple objects by selecting them and going to **Object > Transform > Randomize Transform**.",
+    "quote": "Randomize the location, rotation, or scale of multiple objects by selecting them and going to Object > Transform > Randomize Transform.",
     "button": "none",
     "link": "none"
   },
   {
-    "quote": "Add frequently used modifiers or functions to your **Quick Favorites menu** by right-clicking them and selecting 'Add to Quick Favorites'; access them quickly with the **Q key**.",
+    "quote": "Add frequently used modifiers or functions to your Quick Favorites menu by right-clicking them and selecting 'Add to Quick Favorites'; access them quickly with the Q key.",
     "button": "none",
     "link": "none"
   },
     {
-    "quote": "Quickly rename selected objects by pressing **F2**.",
+    "quote": "Quickly rename selected objects by pressing F2.",
     "button": "none",
     "link": "none"
   },
     {
-    "quote": "Perform batch renaming of multiple objects or data types by selecting them and pressing **Ctrl+F2**.",
+    "quote": "Perform batch renaming of multiple objects or data types by selecting them and pressing Ctrl+F2.",
     "button": "none",
     "link": "none"
   },
    {
-    "quote": "Rotate your view while holding **Alt** to quickly snap to orthographic views, even without a numpad.",
+    "quote": "Rotate your view while holding Alt to quickly snap to orthographic views, even without a numpad.",
     "button": "none",
     "link": "none"
   },
     {
-    "quote": "In Blender 4.5+, switch the display graphics backend to **Vulan** in preferences for improved viewport and file loading performance.",
+    "quote": "In Blender 4.5+, switch the display graphics backend to Vulan in preferences for improved viewport and file loading performance.",
     "button": "none",
     "link": "none"
   },
     {
-    "quote": "Reduce file size by going to **File > Cleanup > Purge Unused Data** to remove any unnecessary data from your blend file.",
+    "quote": "Reduce file size by going to File > Cleanup > Purge Unused Data to remove any unnecessary data from your blend file.",
     "button": "none",
     "link": "none"
   },
     {
-    "quote": "Copy and paste color values between color pickers on the same screen by **dragging and dropping**, or use **Ctrl+C / Ctrl+V** for pickers on different screens.",
+    "quote": "Copy and paste color values between color pickers on the same screen by dragging and dropping, or use Ctrl+C / Ctrl+V for pickers on different screens.",
     "button": "none",
     "link": "none"
   },
     {
-    "quote": "Navigate your scene like a video game using **Walk or Fly mode (Shift+Tilde)**, with W,A,S,D to move and mouse to look around.",
-    "button": "none",
-    "link": "none"
-  },
-  
-    {
-    "quote": "Winsor McCay’s 'Gertie the Dinosaur' (1914) helped invent character animation by giving a drawn dinosaur a distinct personality.",
-    "button": "none",
-    "link": "link"
-  },
-    {
-    "quote": "Max Fleischer invented the rotoscope in 1915, letting animators trace live action for smoother, more realistic motion.",
-    "button": "none",
-    "link": "link"
-  },
-    {
-    "quote": "Lotte Reiniger’s 'The Adventures of Prince Achmed' (1926) is the oldest surviving animated feature, crafted with silhouette cut-outs.",
-    "button": "none",
-    "link": "link"
-  },
-    {
-    "quote": "Disney’s 'Steamboat Willie' (1928) popularized synchronized sound in cartoons and launched Mickey Mouse to stardom.",
-    "button": "none",
-    "link": "more"
-  },
-    {
-    "quote": "Disney’s 'Flowers and Trees' (1932) was the first Technicolor cartoon and the first animated short to win an Oscar.",
-    "button": "none",
-    "link": "link"
-  },
-    {
-    "quote": "'Tin Toy' (1988) became the first CGI film to win an Academy Award, a preview of Pixar’s future.",
-    "button": "none",
-    "link": "none"
-  },
-    {
-    "quote": "Pixar’s 'Toy Story' (1995) was the first feature-length film made entirely with CGI.",
-    "button": "none",
-    "link": "link"
-  },
-    {
-    "quote": "'Toy Story 2' (1999) was accidentally deleted mid-production—rescued by a home backup from a technical director.",
-    "button": "none",
-    "link": "none"
-  },
-    {
-    "quote": "The Academy Award for Best Animated Feature debuted in 2001; 'Shrek' won the inaugural Oscar.",
+    "quote": "Navigate your scene like a video game using Walk or Fly mode (Shift+Tilde), with W,A,S,D to move and mouse to look around.",
     "button": "none",
     "link": "none"
   },
   
   {
+    "quote": "Winsor McCay’s 'Gertie the Dinosaur' (1914) helped invent character animation by giving a drawn dinosaur a distinct personality.",
+    "button": "learn more",
+    "link": "https://animationclub.school/blog/explore-how-gertie-the-dinosaur-revolutionized-animation-by-introducing-the-first-character-with-a-distinct-personality/"
+  },
+  {
+    "quote": "Max Fleischer invented the rotoscope in 1915, letting animators trace live action for smoother, more realistic motion.",
+    "button": "learn more",
+    "link": "https://www.britannica.com/biography/Max-Fleischer"
+  },
+  {
+    "quote": "Lotte Reiniger’s 'The Adventures of Prince Achmed' (1926) is the oldest surviving animated feature, crafted with silhouette cut-outs.",
+    "button": "learn more",
+    "link": "https://www.metmuseum.org/perspectives/from-the-vaults-lotte-reiniger"
+  },
+  {
+    "quote": "Disney’s 'Steamboat Willie' (1928) popularized synchronized sound in cartoons and launched Mickey Mouse to stardom.",
+    "button": "learn more",
+    "link": "https://www.cartoonbrew.com/classic/how-advancements-in-sound-technology-ensured-mickey-would-become-a-cartoon-icon-236444.html"
+  },
+  {
+    "quote": "Disney’s 'Flowers and Trees' (1932) was the first Technicolor cartoon and the first animated short to win an Oscar.",
+    "button": "learn more",
+    "link": "https://www.technicolor.com/about/history/technicolor-disney-cartoon-flowers-and-trees/"
+  },
+  {
+    "quote": "'Tin Toy' (1988) became the first CGI film to win an Academy Award, a preview of Pixar’s future.",
+    "button": "learn more",
+    "link": "https://www.guinnessworldrecords.com/world-records/777092-first-computer-animated-film-to-win-an-academy-award"
+  },
+  {
+    "quote": "Pixar’s 'Toy Story' (1995) was the first feature-length film made entirely with CGI.",
+    "button": "learn more",
+    "link": "https://pixflow.net/blog/how-toy-story-changed-animation-history-pixars-first-cgi-animated-movie/"
+  },
+  {
+    "quote": "'Toy Story 2' (1999) was accidentally deleted mid-production—rescued by a home backup from a technical director.",
+    "button": "learn more",
+    "link": "https://www.premiumbeat.com/blog/how-pixar-saved-toy-story-2/"
+  },
+  {
+    "quote": "The Academy Award for Best Animated Feature debuted in 2001; 'Shrek' won the inaugural Oscar.",
+    "button": "learn more",
+    "link": "https://www.gq.com/story/every-academy-awards-best-animated-feature-winner-ranked"
+  },
+
+  {
     "quote": "Blender is the world’s most powerful free 3D creation tool, built entirely by volunteers and community funding. If Blender has been a significant part of your creative journey, please consider donating to the devfund using the donate button below!",
-    "button": "none",
-    "link": "none"
+    "button": "donate now",
+    "link": "https://fund.blender.org/"
   },
   {
     "quote": "Unlike other industry tools that cost thousands, Blender is free forever. It is the support of this awesome community that keeps it in development and helps it grow. If you are in a financial position to support this awesome tool, please consider donating to the fund using the link below.",
-    "button": "none",
-    "link": "none"
+    "button": "donate now",
+    "link": "https://fund.blender.org/"
   },
-
-
   {
     "quote": "Blender’s development fund directly supports programmers that help develop it and advance it at such a quick rate. Every donation translates into more tools for creators worldwide. So please consider donating. Even if it's a single dollar!",
-    "button": "none",
-    "link": "none"
+    "button": "donate now",
+    "link": "https://fund.blender.org/"
   },
   {
     "quote": "When you donate to Blender, you’re not just funding software—you’re funding freedom, creativity, and access for millions of artists world-wide. If you haven't already, please consider donating to the blender dev fund.",
-    "button": "none",
-    "link": "none"
+    "button": "donate now",
+    "link": "https://fund.blender.org/"
   },
   {
-    "quote": "Think of the last Blender tutorial that inspired you—it exists because Blender itself exists. Donations make that inspiration possible. If you are in the financila position to support a tool like blender, consider donating to the blender dev fund using the link below!",
-    "button": "none",
-    "link": "none"
+    "quote": "Think of the last Blender tutorial that inspired you—it exists because Blender itself exists. Donations make that inspiration possible. If you are in the financial position to support a tool like blender, consider donating to the blender dev fund using the link below!",
+    "button": "donate now",
+    "link": "https://fund.blender.org/"
   },
-
   {
     "quote": "A small donation from you could mean a massive impact for the blender community-—faster updates, better tools, and a stronger Blender for the future. If you haven't already, please consider donating to the blender dev fun.",
-    "button": "none",
-    "link": "none"
+    "button": "donate now",
+    "link": "https://fund.blender.org/"
   },
-  
   {
     "quote": "Blender is free for you—because several others donated to the dev fund to keep it free. If you have the financial resources to pass that support on, please click on the donate button below to make a donation to the blender dev fund!",
-    "button": "none",
-    "link": "none"
+    "button": "donate now",
+    "link": "https://fund.blender.org/"
   },
-
   {
     "quote": "Every feature you love in Blender exists because someone donated a dollar somewhere someday. Be that somebody for someone else. Make a donation to the dev fund today using the link below.",
-    "button": "none",
-    "link": "none"
+    "button": "donate now",
+    "link": "https://fund.blender.org/"
   },
+
   
     {
-    "quote": "Lighting is what makes or breaks a render. Most users think of Lighting from the perspective of illumination. But true lighitng potential can only unlocked when you look at lighting through perspective of shadows.",
+    "quote": "Lighting is what makes or breaks a render. Most users think of Lighting from the perspective of illumination. But true lighitng potential can only be unlocked when you look at lighting through the perspective of shadows.",
     "button": "none",
     "link": "none"
   },
   
      {
-    "quote": "Your Render sucks at the moment is because it needs more time. It needs more love. It probably needs more details. Or it just needs a fresh restart. Don't give up. Good things take time.",
+    "quote": "Your Render sucks at the moment--because it needs more time. It needs more love. It probably needs more details. Or it just needs a fresh restart. Don't give up. Good things take time.",
     "button": "none",
     "link": "none"
   },
      {
-    "quote": "This addon was built by me because i wanted a dose of motivation every time i opened up blender. Just that tiny idea has flourished to this full-fledged addon. It took weeks to design this addon. If you find it useful, consider donating on gumroad, or donate a quote by clicking the button below or just support me from any of the links you see on the top right of this bubble!",
+    "quote": "This addon was built by me because i wanted a dose of motivation every time i opened up blender. Just that tiny idea has flourished into this full-fledged addon. It took weeks to design this addon. If you find it useful, consider donating on gumroad, or donate a quote by clicking the button below or just support me from any of the links you see on the top right of this bubble!",
     "button": "none",
     "link": "none"
   },
      {
-    "quote": "This is addon is called Toaster 3D. It's a play on the name of this tool Blender-3D.",
+    "quote": "This is addon is called Toaster 3D. It's a play on the name Blender 3D. Blender 3D blends. Toaster 3D Toasts!",
     "button": "none",
     "link": "none"
   },
@@ -1116,7 +1109,7 @@
   },
   
    {
-    "quote": "Imagine paying a cancellation fee everytime you deleted Blender.",
+    "quote": "Imagine paying a cancellation fee everytime you deleted Blender.(cough) Adobe! (cough)",
     "button": "none",
     "link": "none"
   },
@@ -1181,7 +1174,7 @@
   
 
    {
-    "quote": "The Blender Camera is kinda fake. It is too perfect when compared to a real world camera. It has literally no imperfections. That's why you need an addon like the 'Lens Sim' addon, coz it gives you access to an absolutely Physically Accurate Real World Camera right within in Blender!",
+    "quote": "The Blender Camera is kinda fake. It is too perfect when compared to a real world camera. It has literally no imperfections. That's why you need an addon like the 'Lens Sim' addon, coz it gives you access to an absolutely Physically Accurate Real World Camera right within Blender!",
     "button": "download",
     "link": "https://superhivemarket.com/products/lens-sim?ref=1639"
   },
@@ -1202,7 +1195,7 @@
   },
   
    {
-    "quote": "Color Grade Your Renders Directly Within Blender. No Davinci Reosolve. No After-Effects. Streamline your color grading workflow. Render Raw is Crazy Powerful!",
+    "quote": "Color Grade Your Renders Directly Within Blender. No Davinci Resolve. No After-Effects. Streamline your color grading workflow with Render Raw. It's Crazy Powerful!",
     "button": "download",
     "link": "https://superhivemarket.com/products/render-raw?ref=1639"
   },
@@ -1215,14 +1208,14 @@
   },
   
    {
-    "quote": "Only an insane person uses the default blender fluid simulation tools. just get flipfluids, and you will save 5 years of your life of just baking erratic mantaflow shennanigans.",
+    "quote": "Only an insane person uses the default blender fluid simulation tools. just get flipfluids, and you will save 5 years of your life. trust me!",
     "button": "download",
     "link": "https://superhivemarket.com/products/flipfluids?ref=1639"
   },
   
 
    {
-    "quote": "Spice Up your lights in Blender. Try IES Lights!",
+    "quote": "Spice Up your lights in Blender. Try IES Lights! They are crazy! Most people don't even know about them!",
     "button": "download",
     "link": "https://superhivemarket.com/products/iesplus?ref=1639"
   },
@@ -1241,7 +1234,7 @@
   },
   
    {
-    "quote": "No better Rain Simulator in Blender than the BagaRain Generator Addon!",
+    "quote": "Need Rain in your scene? No better Rain Simulator in Blender than the BagaRain Generator Addon!",
     "button": "download",
     "link": "https://superhivemarket.com/products/rain-generator?ref=1639"
   },
@@ -1261,13 +1254,13 @@
   
 
    {
-    "quote": "Best Material Library in Blender. Period.",
+    "quote": "Best Material Library in Blender. Period. I don't think I have downloaded or made a shader myself in ages. I Blame Sanctus Library!",
     "button": "download",
     "link": "https://superhivemarket.com/products/sanctus-library-addon---procedural-shaders-collection-for-blender?ref=1639"
   },
   
    {
-    "quote": "The easiest way to add details to any of your renders, is to just add some crowds in the background. No better addon to do that than procedural crowds!",
+    "quote": "The easiest way to add details to any of your renders, is to just add some crowds in the background. No better addon to do that than the procedural crowds addon!",
     "button": "download",
     "link": "https://superhivemarket.com/products/procedural-crowds?ref=1639"
   },
@@ -1309,12 +1302,12 @@
     "link": "https://superhivemarket.com/products/claydoh?ref=1639"
   },
      {
-    "quote": "If you are not using Geoscatter for scattering, I don't think we're gonna be friends!",
+    "quote": "If you are not using Geoscatter for scattering, I don't think we're gonna be friends! Go get Geoscatter and maybe then, we'll talk!",
     "button": "download",
     "link": "https://superhivemarket.com/products/scatter?ref=1639"
   },
      {
-    "quote": "Need a Photorealistic Human Character within Blender? Get the Human Generator Right now!",
+    "quote": "Need a Photorealistic Human Character within Blender? Get the Human Generator addon Right now! Metahumans who?",
     "button": "download",
     "link": "https://superhivemarket.com/products/humgen3d?ref=1639"
   },
@@ -1324,10 +1317,1293 @@
     "link": "https://superhivemarket.com/products/gobos?ref=1639"
   },
      {
-    "quote": "Is a 3D Render even a 3D render without some imperfections.",
+    "quote": "Is a 3D Render even a 3D render without some imperfections. Get Imperfect, with Realistic Touch!",
     "button": "download",
     "link": "https://superhivemarket.com/products/realistictouch?ref=1639"
+  },
+  {
+    "quote": "Consistency beats intensity. Consistency beats volume. Consistency beats passion. Consistency dictates results. — Rich Roll",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The creation of the world did not take place once and for all time, but takes place every day. — Samuel Beckett",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "If you always do what you’ve always done, you’ll always get what you’ve always gotten. — Lao Tzu",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Failure is an option here. If things are not failing, you are not innovating enough. — Elon Musk",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Mistakes are the portals of discovery. — James Joyce",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The creative adult is the child who survived. — Ursula K. Le Guin",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "If you want creative workers, give them enough time to play. — John Cleese",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Creative people discover and realize their visions over time and through dedicated, protracted struggle. In that way, creativity is more like a marathon than a sprint.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "In a way failure is a beautiful thing, because when the dust settles there's nowhere to go but up, and it's a freedom. — David Lynch",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "You can’t wait for inspiration, you have to go after it with a club. — Jack London",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The really important kind of freedom involves attention, and awareness, and discipline, and effort… every day. — David Foster Wallace",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "There’s room for everybody on the planet to be creative and conscious if you are your own person. — Tori Amos",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Success is the sum of small efforts, repeated day‑in and day‑out. — Robert Collier",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "We must all suffer one of two things: the pain of discipline or the pain of regret. — Jim Rohn",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "You will never have a greater or lesser dominion than that over yourself… the height of a man’s success is gauged by his self‑mastery. — Leonardo da Vinci",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "I’ve missed more than 9000 shots in my career… I’ve failed over and over and over again in my life. And that is why I succeed. — Michael Jordan",
+    "button": "none",
+    "link": "none"
+  },
+  
+  {
+    "quote": "Discipline equals freedom. – Jocko Willink",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit. – Aristotle",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Success is nothing more than a few simple disciplines, practiced every day. – Jim Rohn",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "The price of excellence is discipline. – William Ward",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Through discipline comes freedom. – Aristotle",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The successful person has the habit of doing what the failing person does not like to do. – Thomas Edison",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Discipline is remembering what you want. – David Campbell",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Small daily improvements over time lead to stunning results. – Robin Sharma",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "It is hard to fail, but it is worse never to have tried to succeed. – Theodore Roosevelt",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Do not be embarrassed by your failures, learn from them and start again. – Richard Branson",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Failure shows us the way—by showing us what isn’t the way. – Ryan Holiday",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "A minute’s success pays the failure of years. – Robert Browning",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Failure is instructive. The person who really thinks learns quite as much from his failures as from his successes. – John Dewey",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Failure is the condiment that gives success its flavor. – Truman Capote",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit. – Napoleon Hill",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Do not fear failure but rather fear not trying. – Roy T. Bennett",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Comparison is the thief of joy. – Theodore Roosevelt",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Admire someone else’s beauty without questioning your own.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Don’t compare your life to others. There’s no comparison between the sun and the moon, they shine when it’s their time.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Be yourself; everyone else is already taken. – Oscar Wilde",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "The reason why we struggle with insecurity is because we compare our behind the scenes with everyone else’s highlight reel. – Steve Furtick",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Don’t compare your path with anybody else’s. Your path is unique to you. – Ram Dass",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Stay in your lane. Comparison kills creativity and joy. – Brene Brown",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Beauty begins the moment you decide to be yourself. – Coco Chanel",
+    "button": "none",
+    "link": "none"
+  },
+
+
+  {
+    "quote": "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish. – John Quincy Adams",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "All great achievements require time. – Maya Angelou",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The best investment you can make is in yourself. – Warren Buffett",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The longer the wait, the sweeter the reward.",
+    "button": "none",
+    "link": "none"
+  },
+
+ {
+    "quote": "Learning never exhausts the mind. – Leonardo da Vinci",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Simplicity is the ultimate form of sophistication. – Leonardo da Vinci",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "An investment in knowledge pays the best interest. – Benjamin Franklin",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn. – Benjamin Franklin",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Genius without education is like silver in the mine. – Benjamin Franklin",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals. – Zig Ziglar",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "A goal properly set is halfway reached. – Zig Ziglar",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Doubt kills more dreams than failure ever will. – Suzy Kassem",
+    "button": "none",
+    "link": "none"
+  },
+
+
+  {
+    "quote": "The shortest answer is doing the thing. – Ernest Hemingway",
+    "button": "none",
+    "link": "none"
+  },
+
+
+  {
+    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall. – Nelson Mandela",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Action is the foundational key to all success. – Pablo Picasso",
+    "button": "none",
+    "link": "none"
+  },
+  
+  {
+    "quote": "Poor is the pupil who does not surpass his master. – Leonardo da Vinci",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "He who wishes to be rich in a day will be hanged in a year. – Leonardo da Vinci",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "You can never cross the ocean until you have the courage to lose sight of the shore. – Christopher Columbus",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail. – Ralph Waldo Emerson",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us. – Ralph Waldo Emerson",
+    "button": "none",
+    "link": "none"
+  },
+
+
+  {
+    "quote": "Patience is not simply the ability to wait — it’s how we behave while we’re waiting. – Joyce Meyer",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "If you spend too much time thinking about a thing, you’ll never get it done. – Bruce Lee",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Courage starts with showing up and letting ourselves be seen. – Brené Brown",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Imperfections are not inadequacies; they are reminders that we’re all in this together. – Brené Brown",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Vulnerability is the birthplace of innovation, creativity and change. – Brené Brown",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Success is stumbling from failure to failure with no loss of enthusiasm. – Winston Churchill",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Kites rise highest against the wind, not with it. – Winston Churchill",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Continuous effort — not strength or intelligence — is the key to unlocking our potential. – Winston Churchill",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Success is a journey, not a destination. The doing is often more important than the outcome. – Arthur Ashe",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "From what we get, we can make a living; what we give, however, makes a life. – Arthur Ashe",
+    "button": "none",
+    "link": "none"
+  },
+  
+   {
+    "quote": "Do not wait to strike till the iron is hot; but make it hot by striking. – William Butler Yeats",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Happiness is neither virtue nor pleasure nor this thing nor that but simply growth. We are happy when we are growing. – William Butler Yeats",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Do not pray for an easy life, pray for the strength to endure a difficult one. – Bruce Lee",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Be like water making its way through cracks. Do not be assertive, but adjust to the object, and you shall find a way around or through it. – Bruce Lee",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The successful warrior is the average man, with laser-like focus. – Bruce Lee",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The future depends on what you do today. – Mahatma Gandhi",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Strength does not come from physical capacity. It comes from an indomitable will. – Mahatma Gandhi",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever. – Mahatma Gandhi",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "A creative man is motivated by the desire to achieve, not by the desire to beat others. – Ayn Rand",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The question isn’t who is going to let me; it’s who is going to stop me. – Ayn Rand",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Man’s greatness lies in his power of thought. – Blaise Pascal",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Small minds are concerned with the extraordinary, great minds with the ordinary. – Blaise Pascal",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "All of humanity’s problems stem from man’s inability to sit quietly in a room alone. – Blaise Pascal",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Others have seen what is and asked why. I have seen what could be and asked why not. – Pablo Picasso",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Only put off until tomorrow what you are willing to die having left undone. – Pablo Picasso",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "Quality is not an act, it is a habit. – Aristotle",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The roots of education are bitter, but the fruit is sweet. – Aristotle",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Pleasure in the job puts perfection in the work. – Aristotle",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Even the darkest night will end and the sun will rise. – Victor Hugo",
+    "button": "none",
+    "link": "none"
+  },
+
+ {
+    "quote": "Imagination is everything. It is the preview of life’s coming attractions. – Albert Einstein",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Try not to become a man of success, but rather try to become a man of value. – Albert Einstein",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "In the middle of difficulty lies opportunity. – Albert Einstein",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "A person who never made a mistake never tried anything new. – Albert Einstein",
+    "button": "none",
+    "link": "none"
+  },
+    {
+    "quote": "Champions keep playing until they get it right. – Billie Jean King",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Pressure is a privilege. – Billie Jean King",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Victory is fleeting. Losing is forever. – Billie Jean King",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Change your life today. Don’t gamble on the future, act now, without delay. – Simone de Beauvoir",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "To win without risk is to triumph without glory. – Pierre Corneille",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "All greatness of character is dependent on individuality. – James Russell Lowell",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The art of life is to know how to enjoy a little and to endure much. – William Hazlitt",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "A wise man will make more opportunities than he finds. – Francis Bacon",
+    "button": "none",
+    "link": "none"
+  },
+  
+    {
+    "quote": "Believe you can and you’re halfway there. – Theodore Roosevelt",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Keep your eyes on the stars, and your feet on the ground. – Theodore Roosevelt",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Order and simplification are the first steps toward mastery. – Thomas Mann",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "A man is but the product of his thoughts. What he thinks, he becomes. – Mahatma Gandhi",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "You may never know what results come of your actions, but if you do nothing, there will be no result. – Mahatma Gandhi",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Courage isn’t having the strength to go on — it is going on when you don’t have strength. – Napoleon Bonaparte",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "The more I read, the more I acquire, the more certain I am that I know nothing. – Voltaire",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Judge a man by his questions rather than by his answers. – Voltaire",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Work banishes those three great evils: boredom, vice, and poverty. – Voltaire",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "You must do the things you think you cannot do. – Eleanor Roosevelt",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The future belongs to those who believe in the beauty of their dreams. – Eleanor Roosevelt",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "With the new day comes new strength and new thoughts. – Eleanor Roosevelt",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people. – Eleanor Roosevelt",
+    "button": "none",
+    "link": "none"
+  },
+
+
+  {
+    "quote": "The dreamers of the day are dangerous men, for they may act on their dreams with open eyes. – T. E. Lawrence",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The only limit to our realization of tomorrow will be our doubts of today. – Franklin D. Roosevelt",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "When you reach the end of your rope, tie a knot in it and hang on. – Franklin D. Roosevelt",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "The best way to predict the future is to create it. – Peter Drucker",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Knowledge has to be improved, challenged, and increased constantly, or it vanishes. – Peter Drucker",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Follow effective action with quiet reflection. From the quiet reflection will come even more effective action. – Peter Drucker",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "You shouldn't dream your film, you should make it! – Steven Spielberg",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "My imagination won't turn off. I wake up so excited I can't eat breakfast. – Steven Spielberg",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "All good ideas start out as bad ideas, that's why it takes so long. – Steven Spielberg",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Filmmaking is all about appreciating the talents of the people you surround yourself with. – Steven Spielberg",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Audience members are only concerned about the story. They'll be drawn to the story, not the technology. – Steven Spielberg",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "You can't start a movie by having the attitude that the script is finished. Your movie is finished before the first day of shooting. – Steven Spielberg",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "As a child, I always drew funny creatures... But I think the trick is not to grow up, not to learn to be an adult. – Tim Burton",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Everything's a story, everyone's got stories... to me, the big nut to crack is how to tell a story, what's the right way to tell a particular story. – Ethan Coen",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "It's most important to just throw yourself into it, putting everything into the project you're working on. – Christopher Nolan",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "A camera is a camera, a shot is a shot. How you tell the story is the main thing. – Christopher Nolan",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "I've always believed that if you want to make a great film, not just a good film, you have to take a lot of risks. – Christopher Nolan",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "More important, for an aspiring filmmaker, is reading. Read, read, read. If you don’t read, you’ll never make a great film. – Martin Scorsese",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "You are going to have to take all of the responsibility... you're going to get all of the blame, so you might as well have made all of the decisions. – Francis Ford Coppola",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "No form of art goes beyond ordinary consciousness as film does, straight to our emotions, deep into the twilight room of the soul. – Ingmar Bergman",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Filmmaking is a chance to live many lifetimes. – Robert Altman",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "For me, the great joy is to watch an audience watching what I've made. – Alfred Hitchcock",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "I just love photographing things and putting them together to tell a story. – Gordon Willis",
+    "button": "none",
+    "link": "none"
+  },
+  
+  {
+    "quote": "I've always believed that true cinema is cinema of the imagination. – Orson Welles",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Everybody has talent, it's just a matter of moving around until you've discovered what it is. – George Lucas",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "I want my audience to be constantly captivated, bewitched, so that it leaves the theatre dazed, stunned to be back on the pavement. – Federico Fellini",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "It's the same thing as how you get to Carnegie Hall: practice, practice, practice. Get a hold of a video camera and just shoot as much as you can. – Martin Scorsese",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "My advice to young filmmakers is this: don't follow trends, start them! – Quentin Tarantino",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The director is the final author. Many of the best films ever made can be seen without dialogue and be perfectly understood. – Alfred Hitchcock",
+    "button": "none",
+    "link": "none"
+  },
+
+
+ 
+  {
+    "quote": "The director's taste and imagination play a crucial role in making a film. Is it meaningful? Is it believable? Is it interesting? These must be answered several hundred times a day. – Akira Kurosawa",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "If you get an impulse in a scene, follow it. It might be something. And if it ain't – take two! – Jack Nicholson",
+    "button": "none",
+    "link": "none"
+  },
+ 
+  {
+    "quote": "The essence of cinema is editing. It's the combination of extraordinary images of people during emotional moments, put together in a kind of alchemy. – Francis Ford Coppola",
+    "button": "none",
+    "link": "none"
+  },
+  
+  {
+    "quote": "Make visible what, without you, might perhaps never have been seen. – Robert Bresson",
+    "button": "none",
+    "link": "none"
+  },
+  
+  {
+    "quote": "If it can be written, or thought, it can be filmed. – Stanley Kubrick",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Now before shooting anything, watch your movie in your head. Picture the scene... and then make your shot list. Now get each shot and cross it off the list. – Ridley Scott",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Every scene has been done before. The idea is to photograph it better than what's already there. – Stanley Kubrick",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Have u watched 'District 9'? It's a gritty sci-fi film by Neill Blomkamp with groundbreaking VFX and realistic alien design, showing how creative CGI on a modest budget can earn Oscar nods.",
+    "button": "watch it now",
+    "link": "https://letterboxd.com/film/district-9/"
+  },
+  {
+    "quote": "Have u watched 'The Creator'? It's a recent sci-fi thriller by Gareth Edwards with epic AI warfare visuals. Its imaginative tech and Oscar-nominated VFX make it a high-tech spectacle for any artist.",
+    "button": "watch it now",
+    "link": "https://letterboxd.com/film/the-creator-2023/"
+  },
+  {
+    "quote": "Have u seen 'Ex Machina'? This sleek sci-fi thriller features a realistic AI robot (Ava) brought to life with stunning effects, winning the Oscar for Best Visual Effects in 2013, a masterclass in subtle CGI blending.",
+    "button": "watch it now",
+    "link": "https://letterboxd.com/film/ex-machina/"
+  },
+
+  {
+    "quote": "Have u seen 'Flow'? It’s a beautiful wordless animated adventure of a cat drifting through a flooded world. With its lush hand-drawn style and no dialogue, it shows how powerful visual storytelling alone can be. Made in Blender, Won the Oscan Recently. Check It Out!",
+    "button": "watch it now",
+    "link": "https://letterboxd.com/film/flow-2024/"
+  },
+  {
+    "quote": "Have u watched 'Meet the Robinsons'? A heartwarming Disney sci-fi about time travel. Its bright, futuristic CG world and the 'Keep Moving Forward' spirit make it inspiring for inventors and animators alike.",
+    "button": "watch it now",
+    "link": "https://letterboxd.com/film/meet-the-robinsons/"
+  },
+
+  {
+    "quote": "Have u seen 'Cats Don't Dance'? A fun 1930s Hollywood animated musical. Its charming 2D animation and catchy song-and-dance numbers make this often-overlooked gem burst with creative energy.",
+    "button": "watch it now",
+    "link": "https://letterboxd.com/film/cats-dont-dance/"
+  },
+  {
+    "quote": "Have u watched 'The Iron Giant'? This cult classic is a 2D animation with heartfelt storytelling. Its gorgeous hand-drawn visuals and a giant robot hero show the power of art direction and character design.",
+    "button": "watch it now",
+    "link": "https://letterboxd.com/film/the-iron-giant/"
+  },
+  {
+    "quote": "Have u watched 'Song of the Sea'? It's a stunning Irish animated fairy tale with beautiful watercolor-style art. The mythic story and rich visuals make it a dreamlike experience for any artist's inspiration.",
+    "button": "watch it now",
+    "link": "https://letterboxd.com/film/song-of-the-sea/"
+  },
+  {
+    "quote": "Have u watched 'Wolfwalkers'? An enchanting Irish animated adventure with a wild folk-art style. Its expressive hand-drawn characters and magical setting show how unique techniques can create truly magical worlds.",
+    "button": "watch it now",
+    "link": "https://letterboxd.com/film/wolfwalkers/"
+  },
+
+  {
+    "quote": "Have u watched 'Who Framed Roger Rabbit'? It's a groundbreaking mix of live-action and hand-drawn cartoon (with lots of famous Toons!). Its seamless blending of VFX and classic animation is a landmark in visual storytelling.",
+    "button": "watch it now",
+    "link": "https://letterboxd.com/film/who-framed-roger-rabbit/"
+  },
+
+  {
+    "quote": "Have u watched 'Fantasia'? Disney's 1940 animated classic set to classical music. Its abstract, imaginative segments (like dancing mushrooms and swirling stars) show how animation can paint sound very inspiring visuals!",
+    "button": "watch it now",
+    "link": "https://letterboxd.com/film/fantasia/"
+  },
+  {
+    "quote": "Have u seen 'Atlantis: The Lost Empire'? A lesser-known Disney sci-fi adventure. Its art direction was inspired by comic artist Mike Mignola, giving Atlantis a unique look great for seeing how strong design can shape a film's world.",
+    "button": "watch it now",
+    "link": "https://letterboxd.com/film/atlantis-the-lost-empire/"
+  },
+  {
+    "quote": "Have u watched 'Yellow Submarine'? The Beatles 1968 psychedelic animated movie. Its mind-bending, colorful art style is like an animated acid trip an absolute classic for any artist seeking surreal visual inspiration.",
+    "button": "watch it now",
+    "link": "https://letterboxd.com/film/yellow-submarine/"
+  },
+  {
+    "quote": "Have u watched 'Paperman'? It's a Disney short blending hand-drawn and CG (Oscar-winner). This black-and-white 7-min love story proves simple sketchy lines and subtle animation effects can be incredibly charming and inspiring.",
+    "button": "watch it now",
+    "link": "https://www.youtube.com/watch?v=aTLySbGoMX0"
+  },
+  {
+    "quote": "Have u watched 'Big Buck Bunny'? A hilarious 10-min CG short (Blender Open Movie) where a giant bunny takes on some forest bullies. It's proof that even an independent team using free tools can create fun, high-quality animation.",
+    "button": "watch it now",
+    "link": "https://www.youtube.com/watch?v=YE7VzlLtp-4"
+  },
+  {
+    "quote": "Have u seen 'Elephants Dream'? The first Blender Foundation open movie (2006) with surreal visuals. Its strange, abstract style is a great example of experimental CGI, reminding artists that animation can tell weird and wonderful stories.",
+    "button": "watch it now",
+    "link": "https://www.youtube.com/watch?v=eFQxRd0isAQ"
+  },
+  {
+    "quote": "Have u watched 'Caminandes: Llama Drama'? This short (by Blender Studio) has a clever llama vs. penguin chase. It’s simple and funny, showing how humor and polish in animation can shine through even in a short clip.",
+    "button": "watch it now",
+    "link": "https://www.youtube.com/watch?v=z9HSecAN5Bk"
+  },
+  {
+    "quote": "Have u watched 'Caminandes: Gran Dillama'? The sequel to Llama Drama more hilarious adventure of the same llama. It's another polished short proving that creative stories (even with a silly llama) can come alive in CG.",
+    "button": "watch it now",
+    "link": "https://www.youtube.com/watch?v=WZQ57NQ5toA"
+  },
+
+  {
+    "quote": "Have u watched 'La Luna'? A dreamy Pixar short where a boy and his family sweep stars off the moon. Its painterly, storybook visuals and gentle magic prove that even a simple concept can be richly beautiful.",
+    "button": "watch it now",
+    "link": "https://www.youtube.com/watch?v=CCQ9v6XMC6c"
+  },
+  {
+    "quote": "Have u seen 'Prospect'? A gritty indie sci-fi about a father-daughter mining crew on an alien moon. Its moody lighting and practical-set feel (with creative VFX) show what a creative low-budget production can achieve.",
+    "button": "watch it now",
+    "link": "https://letterboxd.com/film/prospect-2018/"
+  },
+
+  
+  {
+    "quote": "Have u seen 'Fantastic Mr. Fox'? Wes Anderson's quirky stop-motion (2009). Its meticulously styled sets and witty character animation prove how handcrafted visuals and auteur style can create a unique animated world.",
+    "button": "watch it now",
+    "link": "https://letterboxd.com/film/fantastic-mr-fox/"
+  },
+  
+  {
+    "quote": "Have u seen 'Okja'? A 2017 film (Netflix) about a girl and her mutant pig. It mixes real locations with impressively realistic CGI creatures inspiring for how to blend visual effects into a heartfelt story.",
+    "button": "watch it now",
+    "link": "https://letterboxd.com/film/okja/"
+  },
+  
+  {
+    "quote": "Titanic (1997) had a budget of $200 million and eventually grossed around $2 billion worldwide.",
+    "button": "learn more",
+    "link": "https://ew.com/movies/titanic-filming-locations/"
+  },
+  {
+    "quote": "Cameron built an enormous practical Titanic set at Baja Studios, including full-scale ship models and gimbals for sinking scenes.",
+    "button": "learn more",
+    "link": "https://goldenglobes.com/articles/forgotten-hollywood-the-making-of-titanic/"
+  },
+  {
+    "quote": "With later re-releases, Titanic became the second film ever to gross over $2 billion (it was the first to surpass $1 billion).",
+    "button": "learn more",
+    "link": "https://ew.com/movies/columnists/titanic-money-20th-anniversary/"
+  },
+  {
+    "quote": "Avatar (2009) was nearly 70% computer-generated, and winning the Oscar for Best Cinematography was notable because most of what audiences saw was CGI.",
+    "button": "learn more",
+    "link": "https://www.nyfa.edu/student-resources/best-cinematography-many-looks-avatar/"
+  },
+  {
+    "quote": "James Cameron spent about 15 years developing the technology for Avatar, including co-inventing the ‘Fusion’ 3D camera rig for deep 3D effects.",
+    "button": "learn more",
+    "link": "https://www.youtube.com/watch?v=KmF669UVGtI"
+  },
+  {
+    "quote": "During Avatar’s production, Cameron used a virtual cinematography system: a video-game style controller let him move a camera through the CGI scene in real time.",
+    "button": "learn more",
+    "link": "https://www.theasc.com/articles/avatar-the-way-of-water"
+  },
+  {
+    "quote": "For Avatar: The Way of Water, Cameron built a 120×60×30 foot water tank (over 250,000 gallons) to shoot real water interactions with actors.",
+    "button": "learn more",
+    "link": "https://thewaltdisneycompany.com/how-avatar-the-way-of-water-revolutionizes-underwater-cinematography/"
+  },
+  {
+    "quote": "In Avatar 2, all actors and crew held their breath underwater (no scuba gear allowed) because air bubbles would break the motion-capture tracking.",
+    "button": "learn more",
+    "link": "https://www.filmmakersacademy.com/blog-the-look-of-avatar-the-way-of-water/"
+  },
+  {
+    "quote": "Avatar 2 used two stacked motion-capture volumes—one above water, one below—and blended the data in real time so performances aligned seamlessly.",
+    "button": "learn more",
+    "link": "https://80.lv/articles/there-s-a-huge-amount-of-new-tech-algorythms-in-avatar-the-way-of-water"
+  },
+  {
+    "quote": "James Cameron’s ‘Virtual Camera’ workflow allowed him to watch actors perform as their Na’vi characters on monitors in real time.",
+    "button": "learn more",
+    "link": "https://www.filmmakersacademy.com/blog-the-look-of-avatar-the-way-of-water/"
+  },
+  {
+    "quote": "Weta Digital’s Gollum was one of the first CG characters meant to blend into live-action as a full-fledged actor rather than a monster.",
+    "button": "learn more",
+    "link": "https://www.vulture.com/2018/12/gollum-lord-of-the-rings-cgi-history.html"
+  },
+  {
+    "quote": "Weta constructed Gollum with a full internal skeleton and muscle rig, so when he moved the CG skin would deform realistically.",
+    "button": "learn more",
+    "link": "https://www.vulture.com/2018/12/gollum-lord-of-the-rings-cgi-history.html"
+  },
+  {
+    "quote": "Weta gave Gollum extraordinarily detailed eyes—about 5,000 polygons per eye, roughly a quarter of all Gollum’s geometry—to achieve realistic eye depth.",
+    "button": "learn more",
+    "link": "https://www.vulture.com/2018/12/gollum-lord-of-the-rings-cgi-history.html"
+  },
+
+  {
+    "quote": "During Jurassic Park (1993) filming, a real hurricane struck the Hawaiian set and actual storm footage was used in the film’s storm scenes.",
+    "button": "learn more",
+    "link": "https://www.cinemablend.com/movies/how-jurassic-park-cast-crew-survived-hurricane-while-filming"
+  },
+  {
+    "quote": "Only about 15 minutes of Jurassic Park’s 128-minute running time actually showed full-size practical dinosaurs—the rest relied on close-ups or CGI to manage costs.",
+    "button": "learn more",
+    "link": "https://nofilmschool.com/jurassic-park-dinosaur-screen-time"
+  },
+  {
+    "quote": "The terrifying velociraptor noises in Jurassic Park were created from mating tortoises’ screeches and horses’ panting sounds.",
+    "button": "learn more",
+    "link": "https://mentalfloss.com/article/63526/why-raptors-roar-jurassic-park"
+  },
+  {
+    "quote": "In The Matrix (1999), the iconic 'bullet time' camera move was achieved by surrounding Neo with a rig of still cameras triggered in sequence.",
+    "button": "learn more",
+    "link": "https://www.wired.com/story/the-matrix-legacy-book-excerpt/"
+  },
+  {
+    "quote": "Weta FX delivered over 1,500 VFX shots for Kingdom of the Planet of the Apes (2024), with about 33 minutes of it being entirely CG environments and characters.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "For the Apes film, actors wore upgraded mocap suits with embedded infrared LEDs so they could perform outdoors in sunlight.",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "A deep-learning facial solver was used to map actor expressions onto ape faces automatically, freeing animators to focus on nuances in the POTA series!",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Harry Potter combined practical creature builds and CGI. For Chamber of Secrets (2002), a full-size Dobby model was built for the actors to look at.",
+    "button": "learn more",
+    "link": "https://www.independent.co.uk/arts-entertainment/films/news/harry-potter-warner-bros-studio-tour-london-tickets-motion-capture-dobby-house-elf-a7509091.html"
+  },
+  {
+    "quote": "In Prisoner of Azkaban, Weta Workshop built three animatronic hippogriff models—standing, rearing, and lying down—with individually applied feathers.",
+    "button": "learn more",
+    "link": "https://www.wbstudiotour.co.uk/explore-the-tour/creature-effects/"
+  },
+  {
+    "quote": "For Deathly Hallows – Part 2 (2011), 140 makeup artists turned 60 actors into goblins in just four hours, using about 1.7 tons of silicone prosthetics across the series.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "Aragog the spider in Chamber of Secrets had a 5.5-meter legspan, took 15 puppeteers to operate, and its hair was glued bristle by bristle.",
+    "button": "none",
+    "link": "none"
+  },
+  {
+    "quote": "The Hobbit trilogy was shot natively in 3D, so on set Jackson’s crew could watch monitors in real time with 3D glasses.",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "VFX artist John Berton Jr. admitted that The Mummy Returns’ Scorpion King effect looked terrible partly because they had almost no reference scans of Dwayne Johnson’s face.",
+    "button": "none",
+    "link": "none"
+  },
+
+  {
+    "quote": "Avengers: Endgame (2019) had a reported production budget of about $356 million and grossed $2.799 billion worldwide.",
+    "button": "learn more",
+    "link": "https://www.vanityfair.com/hollywood/2019/04/avengers-endgame-box-office-record-smashes"
+  },
+  {
+    "quote": "Avatar’s $2.923 billion gross on a $237 million budget means it earned roughly 12.3× its production cost.",
+    "button": "learn more",
+    "link": "https://www.bbc.com/culture/article/20220125-how-avatar-became-a-record-smashing-movie"
+  },
+  {
+    "quote": "Weta VFX supervisor Eric Saindon noted that light reflecting under Gollum’s semi-translucent skin was an innovation never done before on a CG creature.",
+    "button": "learn more",
+    "link": "https://www.vulture.com/2018/12/gollum-lord-of-the-rings-cgi-history.html"
+  },
+  
+  {
+  "quote": "checkout this awesome film called 'Spring' by 'Andy Goralczyk' - A poetic story of a shepherd girl and her dog who face ancient spirits to continue the cycle of life. This visually stunning short film was made entirely in Blender 2.8 and showcases beautiful animations.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=WhWc3b3KhnY"
+},
+
+{
+  "quote": "checkout this awesome film called 'Agent 327: Operation Barbershop' by 'Hjalti Hjálmarsson' - A 3-minute teaser based on Dutch artist Martin Lodewijk's classic comics. Features secret agent 327 in a stylish action-comedy adventure with incredible animation quality.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=mN0zPOpADL4"
+},
+
+{
+  "quote": "checkout this awesome film called 'Coffee Run' by 'Javi Jealmerson' - The story of a woman fueled by caffeine, running through bittersweet memories of her past relationship. A unique loop-oriented short film with clever storytelling.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=PVGeM40dABA"
+},
+
+{
+  "quote": "checkout this awesome film called 'Sprite Fright' by 'Matthew Luhn & Hjalti Hjálmarsson' - An 80's-inspired horror comedy set in Britain. When rowdy teenagers trek into an isolated forest, they discover peaceful mushroom creatures that turn out to be an unexpected force of nature.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=_cMxraX_5RE"
+},
+
+{
+  "quote": "checkout this awesome film called 'CHARGE' by 'Rik Schutte' - In an energy-scarce dystopia, an old destitute man breaks into a battery factory but finds himself confronted by a deadly security droid with no way out.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=UXqq0ZvbOnk"
+},
+
+{
+  "quote": "checkout this awesome film called 'Big Buck Bunny' by 'Sacha Goedegebure' - A comedy about a fat rabbit taking revenge on three irritating rodents. This classic short film showcases cartoon-style animation and has become a standard for video testing.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"
+},
+
+{
+  "quote": "checkout this awesome film called 'Cosmos Laundromat' by 'Mathieu Auvray' - On a desolate island, suicidal sheep Franck meets his fate in a quirky salesman who offers him the gift of a lifetime. An absurdist science fantasy with stunning visuals.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=Y-rmzh0PI3c"
+},
+
+{
+  "quote": "checkout this awesome film called 'Tears of Steel' by 'Ian Hubert' - A sci-fi film set in dystopian Amsterdam where warriors and scientists gather at the Oude Kerk to save the world from destructive robots. Combines live-action and CGI.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=R6MlUcmOul8"
+},
+
+{
+  "quote": "checkout this awesome film called 'Sintel' by 'Colin Levy' - An epic fantasy tale where a girl befriends a baby dragon. After the little dragon is taken from her violently, she undertakes a long journey that leads her to a dramatic confrontation.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=unb-gGE_dhg"
+},
+
+{
+  "quote": "checkout this awesome film called 'Wing It!' by 'Blender Studio' - A fun and stylized cartoon that explores the polarized relationship between a cat and a dog aboard an out-of-control space shuttle.",
+  "button": "watch",
+  "link": "https://studio.blender.org/films/wing-it/"
+},
+
+{
+  "quote": "checkout this awesome film called 'Alike' by 'Daniel Martínez Lara & Rafa Cano Méndez' - A thought-provoking story about a father and son living in a society where creativity is being choked out. Made by ex-animation students with no budget over 5 years.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=kQjtK32mGJQ"
+},
+
+{
+  "quote": "checkout this awesome film called 'I Lost My Body' by 'Jérémy Clapin' - An Oscar-nominated French animated film about a solitary hand trying to reconnect with its owner. Made using Blender with 2D elements added through Grease Pencil.",
+  "button": "watch",
+  "link": "https://www.imdb.com/title/tt9806192/"
+},
+
+{
+  "quote": "checkout this awesome film called 'The Missing Scarf' by 'Eoin Duffy' - Albert the squirrel searches for his missing scarf in this dark comedy exploring life's common fears. Narrated by George Takei and shortlisted for Academy Awards.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=U-0Xy9HOaLg"
+},
+
+
+{
+  "quote": "checkout this awesome film called 'Celsius' by 'Stache' - A 35mm summer-themed short film exploring different perspectives on summer through various symbolic shots, from poverty to wealth, representing the human experience.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=ou6qYoG2n1I"
+},
+
+
+
+
+{
+  "quote": "checkout this awesome film called 'The Drink' by 'William Landgren' - A playboy robot millionaire goes on a brief trip to buy motor oil. Created by 16-year-old filmmaker with incredible attention to 1960s film photography aesthetics.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=IRJ7K3fd6Mg"
+},
+
+{
+  "quote": "checkout this awesome film called 'VOLTA' by 'William Landgren' - A cyberpunk-inspired visual journey exploring constant flow of ideas and complexity. Created with influence from Ash Thorp and Colorsponge's work.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=XPm7zy-X_fI"
+},
+
+{
+  "quote": "checkout this awesome film called 'Impetus' by 'William Landgren' - An exploration of unpleasantness and loneliness through highly detailed and technical 3D environments. Every shot crafted with meticulous attention to composition and color.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=ZJeEhfhyO5Q"
+},
+
+{
+  "quote": "checkout this awesome film called 'Untitled Spaces' by 'William Landgren' - A passion project combining architecture, interior design, and cinematography. Inspired by mid-century architectural magazines with vintage film characteristics and CMYK printing effects.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=OH5HP7dv-YU"
+},
+
+{
+  "quote": "checkout this awesome film called 'Crest' by 'Dylan Donaldson' - The shortest film in many lists at 40 seconds, yet manages to open up a world of fantasy by giving incredible attention to detail in world-building.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=cBg_rj9eFN8"
+},
+
+
+
+{
+  "quote": "checkout this awesome film called 'Swing to the Moon' by 'ESMA Students' - Winner of Best Student Project at SIGGRAPH 2023. A beautifully crafted student film showcasing advanced character animation and storytelling techniques.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=lN8_OZvEb28"
+},
+
+
+
+{
+  "quote": "checkout this awesome short series called 'Dynamo Dream' by 'Ian Hubert'",
+  "button": "watch",
+  "link": "https://youtu.be/LsGZ_2RuJ2A"
+},
+
+
+{
+  "quote": "checkout this awesome film called 'Freelance' by 'Lollypop Man' - A recent 2024 animated short film that has gained attention in the Blender community for its professional quality and engaging storytelling.",
+  "button": "watch",
+  "link": "https://www.youtube.com/watch?v=WAvchbP2kXM"
+},
+{
+    "quote": "checkout this awesome film called 'Alike' by Daniel Martínez Lara & Rafa Cano Méndez, a tender father-son story about creativity vs. conformity that went viral for its heart and simplicity.",
+    "button": "watch",
+    "link": "https://vimeo.com/194276412"
+  },
+  {
+    "quote": "checkout this awesome film called 'Darrel' by Marc Briones & Alan Carabantes, a snappy subway flirtation between two chameleons that escalates into elastic, expressive comedy.",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=-n9fo7jUMa0"
+  },
+  {
+    "quote": "checkout this awesome film called 'The Box Assassin' by Jeremy Schaefer, a kinetic action comedy where a pizza delivery collides with a legendary hitman in cartoony, punchy CG.",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=KJvzuJvDHlI"
+  },
+  {
+    "quote": "checkout this awesome film called 'Watermelon Girl' by SouthernShotty, an indie Blender short that leans into stylized characters, handcrafted vibes, and a long-form personal story.",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=9ZLT7i4BDcM"
+  },
+  {
+    "quote": "checkout this awesome film called 'HOLD FAST' by Sam Scott-Thorne, a Blender animated Star Wars fan short that nails tone with clean staging and sharp space-opera beats.",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=0JKIzrU-sqk"
+  },
+
+  {
+    "quote": "checkout this awesome film called 'Relic – Part 1' by Curious Refuge, a Blender Star Wars fan film that blends ship exteriors and stylized planet vistas with grounded character moments.",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=oKaambTGWfY"
+  },
+  {
+    "quote": "checkout this awesome film called 'Rangers On Patrol' by Aaron Hunter, a Blender-made Star Wars fan short with crisp ship animation and old-school adventure energy.",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=LFYucE9X5hg"
+  },
+  {
+    "quote": "checkout this awesome film called 'The Daily Dweebs (Pilot)' by Blender Studio (Hjalti Hjalmarsson), a 1950s suburbia slapstick with a very chaotic dog and delicious smear animation.",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=RJnKaAtBPhA"
+  },
+ 
+  {
+    "quote": "checkout this awesome film called 'Glass Half' by Blender Studio (Beorn Leonard), a fast, funny 2D/3D NPR short about art snobs and perspective.",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=lqiN98z6Dak"
+  },
+  {
+    "quote": "checkout this awesome film called 'HERO' by Daniel M. Lara (Blender Studio), the Grease Pencil showcase that proved 2D/3D hybrid animation could sing.",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=pKmSdY56VtY"
+  },
+
+  {
+    "quote": "checkout this awesome film called 'Star Wars: 212th' by Hoplite VFX, a Blender-heavy fan film with clean trooper staging and crunchy planet exteriors.",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=X9q_HDiQSTM"
   }
+  
   
   
   ]
