@@ -941,7 +941,7 @@
     "link": "none"
   },
     {
-    "quote": "In Blender 4.5+, switch the display graphics backend to Vulan in preferences for improved viewport and file loading performance.",
+    "quote": "In Blender 4.5+, switch the display graphics backend to Vulkan in preferences for improved viewport and file loading performance.",
     "button": "none",
     "link": "none"
   },
@@ -969,7 +969,7 @@
   {
     "quote": "Max Fleischer invented the rotoscope in 1915, letting animators trace live action for smoother, more realistic motion.",
     "button": "learn more",
-    "link": "https://www.britannica.com/biography/Max-Fleischer"
+    "link": "https://www.britannica.com/biography/Fleischer-brothers#ref738704"
   },
   {
     "quote": "Lotte Reiniger's 'The Adventures of Prince Achmed' (1926) is the oldest surviving animated feature, crafted with silhouette cut-outs.",
@@ -1124,7 +1124,7 @@
   
 
    {
-    "quote": "I made Video-Game In Blender!",
+    "quote": "This is a driving game made within Blender using Python Scripts. Check it Out!",
     "button": "watch",
     "link": "https://youtu.be/JbqjN8ywE9o"
   },
@@ -2381,13 +2381,13 @@
 
   {
     "quote": "Avengers: Endgame (2019) had a reported production budget of about $356 million and grossed $2.799 billion worldwide.",
-    "button": "learn more",
-    "link": "https://www.vanityfair.com/hollywood/2019/04/avengers-endgame-box-office-record-smashes"
+    "button": "none",
+    "link": "none"
   },
   {
     "quote": "Avatar's $2.923 billion gross on a $237 million budget means it earned roughly 12.3x its production cost.",
-    "button": "learn more",
-    "link": "https://www.bbc.com/culture/article/20220125-how-avatar-became-a-record-smashing-movie"
+    "button": "none",
+    "link": "none"
   },
   {
     "quote": "Weta VFX supervisor Eric Saindon noted that light reflecting under Gollum's semi-translucent skin was an innovation never done before on a CG creature.",
@@ -2592,8 +2592,55 @@
     "quote": "checkout this awesome film called 'Star Wars: 212th' by Hoplite VFX, a Blender-heavy fan film with clean trooper staging and crunchy planet exteriors.",
     "button": "watch",
     "link": "https://www.youtube.com/watch?v=X9q_HDiQSTM"
-  }
+  },
+  {
+  "quote": "Blender crashes only when you forget to save your file. It knows when it will hurt you the most to lose a file. So Beware!",
+  "button": "none",
+  "link": "none"
+},
+  {
+  "quote": "It is said that ancient warriors when stuck in the cold used Blender in CPU mode at 10,000 samples to heat themselves up and stay warm at night. No cap!",
+  "button": "none",
+  "link": "none"
+},
+   {
+  "quote": "I think I've lost my apetitie for spaghettis after spending so much time in the shader editor!",
+  "button": "none",
+  "link": "none"
+},
   
-  
+  {
+  "quote": "ForRealForRealThisTimeForSureFinalFinal1-suzanne.blend is just the beginning!",
+  "button": "none",
+  "link": "none"
+},
+
+{
+  "quote": "Oppenheimer was considering dropping a Laptop with a Blender scene with the subdivision surface modifier set to 6 on his enemies before the atomic bomb!",
+  "button": "none",
+  "link": "none"
+},
+  {
+  "quote": "A cube walks into a bar. Bartender says, 'Sorry, we only serve spheres.' The cube replies, 'I'll have one Subdivision then, please!'",
+  "button": "none",
+  "link": "none"
+},
+
+{
+  "quote": "Knock knock. Who’s there? Render. Render who? Render me unconscious, coz this frame’s been baking for 9 hours.",
+  "button": "none",
+  "link": "none"
+},
+
+{
+  "quote": "Shift+D and Alt+D walk into a bar. Bartender says, 'You guys look identical' Shift+D says, 'How dare you? I'm unique!",
+  "button": "none",
+  "link": "none"
+},
+  {
+  "quote": "If you have more than 10 versions of blender installed at the same time on your computer, clap your hands!",
+  "button": "none",
+  "link": "none"
+}
   
   ]
